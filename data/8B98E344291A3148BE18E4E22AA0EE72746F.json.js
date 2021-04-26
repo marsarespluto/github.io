@@ -138,6 +138,13 @@ GS.dataCache['8B98E344291A3148BE18E4E22AA0EE72746F'] = {
                     "cid": 0,
                     "eid": "B60E66F50873894B1959CF42487179C3A8A6"
                 }
+            },
+            "5C04B49B81F0084CB28A6AC1A64C6BA8AFD2": {
+                "t": "...That is my name. ",
+                "d": {
+                    "cid": 0,
+                    "eid": "58271537486EB14B2709BD25381AF364116E"
+                }
             }
         },
         "commands": [
@@ -479,6 +486,14 @@ GS.dataCache['8B98E344291A3148BE18E4E22AA0EE72746F'] = {
                 "expanded": true
             },
             {
+                "id": "gs.Label",
+                "params": {
+                    "name": "nameinput"
+                },
+                "uid": "C682877873FD204C59487A020B07603788FE",
+                "indent": 0
+            },
+            {
                 "id": "gs.InputText",
                 "params": {
                     "variable": {
@@ -519,6 +534,69 @@ GS.dataCache['8B98E344291A3148BE18E4E22AA0EE72746F'] = {
                     }
                 },
                 "uid": "216E39795C2BF64B774B097298F06ABC3926",
+                "indent": 0
+            },
+            {
+                "id": "gs.ConditionElseIf",
+                "params": {
+                    "variable": {
+                        "scope": 1,
+                        "index": 0
+                    },
+                    "numberValue": 0,
+                    "textValue": "Mars",
+                    "switchValue": 0,
+                    "valueType": 2,
+                    "operation": 0
+                },
+                "uid": "9AB467265F98D649BA79ACC3DDA523C9259F",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "5C04B49B81F0084CB28A6AC1A64C6BA8AFD2",
+                        "defaultText": "...That is my name. "
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "58271537486EB14B2709BD25381AF364116E",
+                "indent": 1,
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "nameinput"
+                },
+                "uid": "4953A15B3FE94649DD4BB1A2F0E3F6BD220F",
+                "indent": 1
+            },
+            {
+                "id": "gs.ConditionElse",
+                "params": {},
+                "uid": "D6DD64CF407EF340E888C0B75163AC97D05F",
                 "indent": 0
             },
             {
@@ -855,13 +933,14 @@ GS.dataCache['8B98E344291A3148BE18E4E22AA0EE72746F'] = {
                 "id": "gs.PlaySound",
                 "params": {
                     "sound": {
-                        "volume": 100,
-                        "playbackRate": 100
+                        "name": "honkhonk",
+                        "volume": "5",
+                        "playbackRate": "100"
                     },
                     "musicEffect": 0,
                     "fieldFlags": {
-                        "sound.volume": 1,
-                        "sound.playbackRate": 1
+                        "sound.volume": 0,
+                        "sound.playbackRate": 0
                     },
                     "previewBackground": {
                         "name": "$live_preview_snapshot"
@@ -907,7 +986,7 @@ GS.dataCache['8B98E344291A3148BE18E4E22AA0EE72746F'] = {
                 "id": "gs.StopMusic",
                 "params": {
                     "layer": 0,
-                    "fadeOutDuration": 60,
+                    "fadeOutDuration": 30,
                     "fieldFlags": {
                         "fadeOutDuration": 0
                     }
@@ -950,6 +1029,13 @@ GS.dataCache['8B98E344291A3148BE18E4E22AA0EE72746F'] = {
             }
         ],
         "listVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ],
+        "numberVariables": [
             {
                 "name": "",
                 "index": 0,

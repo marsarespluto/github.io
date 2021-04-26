@@ -1006,7 +1006,7 @@ GS.dataCache['D7E7ADFC1173394BA359C29510D1F6CFDD28'] = {
                 "id": "gs.StopMusic",
                 "params": {
                     "layer": 0,
-                    "fadeOutDuration": 300,
+                    "fadeOutDuration": 0,
                     "fieldFlags": {
                         "fadeOutDuration": 0
                     }
@@ -1280,7 +1280,7 @@ GS.dataCache['D7E7ADFC1173394BA359C29510D1F6CFDD28'] = {
                 "id": "gs.StopMusic",
                 "params": {
                     "layer": 0,
-                    "fadeOutDuration": 300,
+                    "fadeOutDuration": 0,
                     "fieldFlags": {
                         "fadeOutDuration": 0
                     }

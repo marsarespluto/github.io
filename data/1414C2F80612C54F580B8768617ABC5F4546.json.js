@@ -1675,6 +1675,18 @@ GS.dataCache['1414C2F80612C54F580B8768617ABC5F4546'] = {
                 "expanded": true
             },
             {
+                "id": "gs.StopMusic",
+                "params": {
+                    "layer": 0,
+                    "fadeOutDuration": 0,
+                    "fieldFlags": {
+                        "fadeOutDuration": 1
+                    }
+                },
+                "uid": "7D53F05971F99944735818D745384056F3E6",
+                "indent": 0
+            },
+            {
                 "id": "vn.CharacterExitScene",
                 "params": {
                     "characterId": "EC1069623F2E984B8B5B77C27381A1FDEE20",

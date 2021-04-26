@@ -372,6 +372,37 @@ GS.dataCache['4BCA371970676647D03AF501763B4FF8E0C5'] = {
                 "indent": 0
             },
             {
+                "id": "gs.PlayMusic",
+                "params": {
+                    "layer": 0,
+                    "music": {
+                        "name": "happy mood",
+                        "volume": "50",
+                        "playbackRate": 100
+                    },
+                    "fadeInDuration": 0,
+                    "playTime": {
+                        "min": 10,
+                        "max": 30
+                    },
+                    "playRange": {
+                        "start": 10,
+                        "end": 20
+                    },
+                    "playType": 0,
+                    "fieldFlags": {
+                        "music.volume": 0,
+                        "music.playbackRate": 1,
+                        "fadeInDuration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "8EDF0E675441A84F8F48EFA5AA85AE29001B",
+                "indent": 0
+            },
+            {
                 "id": "gs.CallCommonEvent",
                 "params": {
                     "commonEventId": 0,
@@ -1671,6 +1702,18 @@ GS.dataCache['4BCA371970676647D03AF501763B4FF8E0C5'] = {
                 "indent": 0
             },
             {
+                "id": "gs.StopMusic",
+                "params": {
+                    "layer": 0,
+                    "fadeOutDuration": 0,
+                    "fieldFlags": {
+                        "fadeOutDuration": 1
+                    }
+                },
+                "uid": "CB7C491E3F223841088975025DF6484A25B8",
+                "indent": 0
+            },
+            {
                 "id": "gs.Label",
                 "params": {
                     "name": "envybedroom1"
@@ -1847,13 +1890,25 @@ GS.dataCache['4BCA371970676647D03AF501763B4FF8E0C5'] = {
                 "indent": 0
             },
             {
+                "id": "gs.StopMusic",
+                "params": {
+                    "layer": 0,
+                    "fadeOutDuration": 0,
+                    "fieldFlags": {
+                        "fadeOutDuration": 1
+                    }
+                },
+                "uid": "DDD4668F66B4944F7659846485CB7E693E17",
+                "indent": 0
+            },
+            {
                 "id": "vn.ChangeScene",
                 "params": {
                     "scene": {
                         "uid": "59EDE4B696E2E94D838AEBC79C732F2B0878",
                         "name": "Bedtime with Envy"
                     },
-                    "savePrevious": 0,
+                    "savePrevious": 1,
                     "erasePictures": 0,
                     "eraseTexts": 0,
                     "eraseVideos": 0,
@@ -2091,13 +2146,25 @@ GS.dataCache['4BCA371970676647D03AF501763B4FF8E0C5'] = {
                 "indent": 0
             },
             {
+                "id": "gs.StopMusic",
+                "params": {
+                    "layer": 0,
+                    "fadeOutDuration": 0,
+                    "fieldFlags": {
+                        "fadeOutDuration": 1
+                    }
+                },
+                "uid": "5BB74A7630E7D046E35A69B332BC1E030745",
+                "indent": 0
+            },
+            {
                 "id": "vn.ChangeScene",
                 "params": {
                     "scene": {
                         "uid": "4926DBE268D2464CAE1AB8379F36CE69AFED",
                         "name": "Bedtime with Annie"
                     },
-                    "savePrevious": 0,
+                    "savePrevious": 1,
                     "erasePictures": 0,
                     "eraseTexts": 0,
                     "eraseVideos": 0,
@@ -2310,13 +2377,25 @@ GS.dataCache['4BCA371970676647D03AF501763B4FF8E0C5'] = {
                 "expanded": true
             },
             {
+                "id": "gs.StopMusic",
+                "params": {
+                    "layer": 0,
+                    "fadeOutDuration": 0,
+                    "fieldFlags": {
+                        "fadeOutDuration": 1
+                    }
+                },
+                "uid": "6A3EFCC330414243795995C8631E1CCC25DE",
+                "indent": 0
+            },
+            {
                 "id": "vn.ChangeScene",
                 "params": {
                     "scene": {
                         "uid": "C9AA965A6658C041D459A346410A3365EF8E",
                         "name": "Bedtime with Tobias"
                     },
-                    "savePrevious": 0,
+                    "savePrevious": 1,
                     "erasePictures": 0,
                     "eraseTexts": 0,
                     "eraseVideos": 0,

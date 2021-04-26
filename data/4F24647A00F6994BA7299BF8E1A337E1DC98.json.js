@@ -58,6 +58,37 @@ GS.dataCache['4F24647A00F6994BA7299BF8E1A337E1DC98'] = {
                 "indent": 0
             },
             {
+                "id": "gs.PlayMusic",
+                "params": {
+                    "layer": 0,
+                    "music": {
+                        "name": "happy mood",
+                        "volume": "50",
+                        "playbackRate": "100"
+                    },
+                    "fadeInDuration": 0,
+                    "playTime": {
+                        "min": 10,
+                        "max": 30
+                    },
+                    "playRange": {
+                        "start": 10,
+                        "end": 20
+                    },
+                    "playType": 0,
+                    "fieldFlags": {
+                        "music.volume": 0,
+                        "music.playbackRate": 0,
+                        "fadeInDuration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "DC2D33B17A83E140488BD014005802A08C13",
+                "indent": 0
+            },
+            {
                 "id": "gs.CallCommonEvent",
                 "params": {
                     "commonEventId": 0,
@@ -412,6 +443,18 @@ GS.dataCache['4F24647A00F6994BA7299BF8E1A337E1DC98'] = {
                 "uid": "9D96D1E08965A1466D3BCC7323746CB03338",
                 "indent": 0,
                 "expanded": true
+            },
+            {
+                "id": "gs.StopMusic",
+                "params": {
+                    "layer": 0,
+                    "fadeOutDuration": 0,
+                    "fieldFlags": {
+                        "fadeOutDuration": 1
+                    }
+                },
+                "uid": "876DB1F29A610148D82A77C69D18EC5A51BE",
+                "indent": 0
             },
             {
                 "id": "vn.ChangeScene",

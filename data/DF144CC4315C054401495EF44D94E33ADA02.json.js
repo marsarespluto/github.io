@@ -804,6 +804,18 @@ GS.dataCache['DF144CC4315C054401495EF44D94E33ADA02'] = {
                 "expanded": true
             },
             {
+                "id": "gs.StopMusic",
+                "params": {
+                    "layer": 0,
+                    "fadeOutDuration": 0,
+                    "fieldFlags": {
+                        "fadeOutDuration": 1
+                    }
+                },
+                "uid": "3470E3E06B4F764CA898F523818EF82C2493",
+                "indent": 0
+            },
+            {
                 "id": "vn.ChangeScene",
                 "params": {
                     "scene": {
@@ -1118,7 +1130,7 @@ GS.dataCache['DF144CC4315C054401495EF44D94E33ADA02'] = {
                 "id": "gs.StopMusic",
                 "params": {
                     "layer": 0,
-                    "fadeOutDuration": 300,
+                    "fadeOutDuration": 0,
                     "fieldFlags": {
                         "fadeOutDuration": 0
                     }

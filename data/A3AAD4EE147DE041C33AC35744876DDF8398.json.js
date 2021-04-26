@@ -135,18 +135,6 @@ GS.dataCache['A3AAD4EE147DE041C33AC35744876DDF8398'] = {
                 "indent": 0
             },
             {
-                "id": "gs.StopMusic",
-                "params": {
-                    "layer": 0,
-                    "fadeOutDuration": 90,
-                    "fieldFlags": {
-                        "fadeOutDuration": 0
-                    }
-                },
-                "uid": "8244E7233E692549491895364BCB724F6ADC",
-                "indent": 0
-            },
-            {
                 "id": "gs.PlayMusic",
                 "params": {
                     "layer": 0,
@@ -757,7 +745,7 @@ GS.dataCache['A3AAD4EE147DE041C33AC35744876DDF8398'] = {
                 "id": "gs.StopMusic",
                 "params": {
                     "layer": 0,
-                    "fadeOutDuration": 300,
+                    "fadeOutDuration": 0,
                     "fieldFlags": {
                         "fadeOutDuration": 0
                     }

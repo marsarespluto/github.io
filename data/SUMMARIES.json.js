@@ -3061,7 +3061,7 @@ GS.dataCache['SUMMARIES'] = {
             "items": {
                 "name": "Envy",
                 "type": "data_record",
-                "order": 0
+                "order": 2
             }
         },
         "EBC0771624CC014F753B1CF397B07A8B6100": {
@@ -3082,14 +3082,14 @@ GS.dataCache['SUMMARIES'] = {
             "items": {
                 "name": "Tobias",
                 "type": "data_record",
-                "order": 1
+                "order": 0
             }
         },
         "692E1A9072FB7544B29A7B47CF529AE3DD77": {
             "items": {
                 "name": "Annie",
                 "type": "data_record",
-                "order": 2
+                "order": 1
             }
         },
         "A43334F28901094B6A5B10F1CB137F90CC68": {
@@ -3214,13 +3214,6 @@ GS.dataCache['SUMMARIES'] = {
                 "order": 4
             }
         },
-        "933E39EF504115429F585C9866C94BA0BB8F": {
-            "items": {
-                "name": "boxopen",
-                "type": "data_record",
-                "order": 5
-            }
-        },
         "14C1B16B43E098442B38DDE2CEDB7A832FF3": {
             "items": {
                 "name": "animal",
@@ -3258,6 +3251,98 @@ GS.dataCache['SUMMARIES'] = {
                 "parentId": "4F24647A00F6994BA7299BF8E1A337E1DC98",
                 "chapterUid": "33CA8B7A0CD3B540DA7A46943C31E3392A9E",
                 "order": 1
+            }
+        },
+        "3C25D2203330434CC04AD9F699443C903364": {
+            "items": {
+                "name": "Night 1 - Sleep",
+                "type": "vn.scene",
+                "parentId": "4BCA371970676647D03AF501763B4FF8E0C5",
+                "chapterUid": "33CA8B7A0CD3B540DA7A46943C31E3392A9E",
+                "order": 0
+            }
+        },
+        "4926DBE268D2464CAE1AB8379F36CE69AFED": {
+            "items": {
+                "name": "Bedtime with Annie",
+                "type": "vn.scene",
+                "parentId": "3C25D2203330434CC04AD9F699443C903364",
+                "chapterUid": "33CA8B7A0CD3B540DA7A46943C31E3392A9E",
+                "order": 0
+            }
+        },
+        "59EDE4B696E2E94D838AEBC79C732F2B0878": {
+            "items": {
+                "name": "Bedtime with Envy",
+                "type": "vn.scene",
+                "parentId": "3C25D2203330434CC04AD9F699443C903364",
+                "chapterUid": "33CA8B7A0CD3B540DA7A46943C31E3392A9E",
+                "order": 2
+            }
+        },
+        "C9AA965A6658C041D459A346410A3365EF8E": {
+            "items": {
+                "name": "Bedtime with Tobias",
+                "type": "vn.scene",
+                "parentId": "3C25D2203330434CC04AD9F699443C903364",
+                "chapterUid": "33CA8B7A0CD3B540DA7A46943C31E3392A9E",
+                "order": 1
+            }
+        },
+        "09CC4DB0345CF24EA51B0BB51A3DD3B46043": {
+            "items": {
+                "name": "anniebedroomnight",
+                "type": "data_record",
+                "order": 5
+            }
+        },
+        "DB087B876837F14F895AA774EFF9C062F9AB": {
+            "items": {
+                "name": "envybedroom",
+                "type": "data_record",
+                "order": 7
+            }
+        },
+        "2F2EF76A29CD244C777816787551DE0A054C": {
+            "items": {
+                "name": "tobibedroom",
+                "type": "data_record",
+                "order": 9
+            }
+        },
+        "C2F1C9DA6C82F84D6F487784DD9338BD0E42": {
+            "items": {
+                "name": "envybedroomnight",
+                "type": "data_record",
+                "order": 8
+            }
+        },
+        "122D5A3C6B1F704674895152A894E3D069D1": {
+            "items": {
+                "name": "anniebedroom",
+                "type": "data_record",
+                "order": 6
+            }
+        },
+        "9B16C20D8366334D8E3ADBD4D7CE159ECE39": {
+            "items": {
+                "name": "blushenvy",
+                "type": "data_record",
+                "order": 2
+            }
+        },
+        "9F3859063C2F9540008B0E0973C34F3CDB1D": {
+            "items": {
+                "name": "surpriseenvy",
+                "type": "data_record",
+                "order": 3
+            }
+        },
+        "6CC33B3461E4604ED35A8655F16E2A3FF021": {
+            "items": {
+                "name": "angryenvy",
+                "type": "data_record",
+                "order": 4
             }
         }
     }

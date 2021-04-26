@@ -536,6 +536,18 @@ GS.dataCache['E55A412405E0974BD929AA400DC8BAACFB49'] = {
                 "indent": 0
             },
             {
+                "id": "gs.StopMusic",
+                "params": {
+                    "layer": 0,
+                    "fadeOutDuration": 0,
+                    "fieldFlags": {
+                        "fadeOutDuration": 0
+                    }
+                },
+                "uid": "22471D956D94D7423428EB09E28D0DB129FB",
+                "indent": 0
+            },
+            {
                 "id": "gs.Label",
                 "params": {
                     "name": "anniechat"
