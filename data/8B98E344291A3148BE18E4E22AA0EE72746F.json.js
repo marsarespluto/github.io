@@ -202,10 +202,10 @@ GS.dataCache['8B98E344291A3148BE18E4E22AA0EE72746F'] = {
                     "layer": 0,
                     "music": {
                         "name": "the_beginning",
-                        "volume": 33,
+                        "volume": 50,
                         "playbackRate": 100
                     },
-                    "fadeInDuration": 90,
+                    "fadeInDuration": 30,
                     "playTime": {
                         "min": 10,
                         "max": 30
@@ -216,7 +216,7 @@ GS.dataCache['8B98E344291A3148BE18E4E22AA0EE72746F'] = {
                     },
                     "playType": 0,
                     "fieldFlags": {
-                        "music.volume": 1,
+                        "music.volume": 0,
                         "music.playbackRate": 1,
                         "fadeInDuration": 0
                     },
@@ -225,32 +225,6 @@ GS.dataCache['8B98E344291A3148BE18E4E22AA0EE72746F'] = {
                     }
                 },
                 "uid": "21673441467C4642B84B760449F1806C6778",
-                "indent": 0,
-                "expanded": false
-            },
-            {
-                "id": "gs.AudioDefaults",
-                "params": {
-                    "musicVolume": 35,
-                    "musicPlaybackRate": 100,
-                    "musicFadeInDuration": 90,
-                    "musicFadeOutDuration": 90,
-                    "soundVolume": 100,
-                    "soundPlaybackRate": 100,
-                    "voiceVolume": 100,
-                    "voicePlaybackRate": 100,
-                    "fieldFlags": {
-                        "musicFadeInDuration": 0,
-                        "musicFadeOutDuration": 0,
-                        "musicVolume": 0,
-                        "musicPlaybackRate": 1,
-                        "soundVolume": 1,
-                        "soundPlaybackRate": 1,
-                        "voiceVolume": 1,
-                        "voicePlaybackRate": 1
-                    }
-                },
-                "uid": "01697E3D5031774DE84BBA93A44B2C077FCB",
                 "indent": 0,
                 "expanded": false
             },
@@ -540,14 +514,20 @@ GS.dataCache['8B98E344291A3148BE18E4E22AA0EE72746F'] = {
                 "id": "gs.ConditionElseIf",
                 "params": {
                     "variable": {
+                        "name": "PlayerName",
                         "scope": 1,
-                        "index": 0
+                        "index": 0,
+                        "changed": true,
+                        "domain": "com.degica.vnm.default"
                     },
                     "numberValue": 0,
                     "textValue": "Mars",
                     "switchValue": 0,
                     "valueType": 2,
-                    "operation": 0
+                    "operation": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
                 },
                 "uid": "9AB467265F98D649BA79ACC3DDA523C9259F",
                 "indent": 0
