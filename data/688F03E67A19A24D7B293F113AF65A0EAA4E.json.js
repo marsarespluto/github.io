@@ -1,10 +1,11 @@
 GS.dataCache['688F03E67A19A24D7B293F113AF65A0EAA4E'] = {
     "uid": "688F03E67A19A24D7B293F113AF65A0EAA4E",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
         "name": "sidetobi",
         "type": "data_record",
+        "order": 3,
         "category": "characterExpressions",
         "id": "688F03E67A19A24D7B293F113AF65A0EAA4E",
         "isFolder": false,
@@ -16,12 +17,21 @@ GS.dataCache['688F03E67A19A24D7B293F113AF65A0EAA4E'] = {
             },
             "name": "sidetobi",
             "idleSpeed": 100,
-            "idle": [],
+            "idle": [
+                {
+                    "resource": {
+                        "name": "tobiasside",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": null
+                    }
+                }
+            ],
             "talkingSpeed": 100,
             "talking": [],
             "index": "688F03E67A19A24D7B293F113AF65A0EAA4E"
-        },
-        "order": 3
+        }
     },
     "summary": [
         "name",

@@ -595,23 +595,14 @@ GS.dataCache['A3AAD4EE147DE041C33AC35744876DDF8398'] = {
                 "expanded": true
             },
             {
-                "id": "gs.PlaySound",
+                "id": "gs.CallCommonEvent",
                 "params": {
-                    "sound": {
-                        "name": "honkhonk",
-                        "volume": 5,
-                        "playbackRate": 100
-                    },
-                    "musicEffect": 0,
-                    "fieldFlags": {
-                        "sound.volume": 0,
-                        "sound.playbackRate": 1
-                    },
-                    "previewBackground": {
-                        "name": "$live_preview_snapshot"
+                    "commonEventId": "AD3B5FB87759B2465569520753D4065B2705",
+                    "parameters": {
+                        "values": []
                     }
                 },
-                "uid": "9442FC9D3B388347160A26370C4ED2990535",
+                "uid": "13320E3C4F52B048E859F3F9A8C0036AD8DB",
                 "indent": 0
             },
             {
@@ -719,24 +710,15 @@ GS.dataCache['A3AAD4EE147DE041C33AC35744876DDF8398'] = {
                 "expanded": true
             },
             {
-                "id": "gs.PlaySound",
+                "id": "gs.CallCommonEvent",
                 "params": {
-                    "sound": {
-                        "name": "honkhonk",
-                        "volume": 5,
-                        "playbackRate": 100
-                    },
-                    "musicEffect": 0,
-                    "fieldFlags": {
-                        "sound.volume": 0,
-                        "sound.playbackRate": 1
-                    },
-                    "previewBackground": {
-                        "name": "$live_preview_snapshot"
+                    "commonEventId": "AD3B5FB87759B2465569520753D4065B2705",
+                    "parameters": {
+                        "values": []
                     }
                 },
-                "indent": 0,
-                "uid": "08834A5A226A374BF2197C2873057D864BD7"
+                "uid": "D094869A11E6E144123943A40A31687F8154",
+                "indent": 0
             },
             {
                 "id": "gs.ShowMessage",
@@ -818,6 +800,13 @@ GS.dataCache['A3AAD4EE147DE041C33AC35744876DDF8398'] = {
             }
         ],
         "stringVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ],
+        "listVariables": [
             {
                 "name": "",
                 "index": 0,

@@ -70,7 +70,7 @@ GS.dataCache['8B98E344291A3148BE18E4E22AA0EE72746F'] = {
                 }
             },
             "4A4E380827230143C86BE1E6B24097FCE1AC": {
-                "t": "Do you remember anything from your life?....No? Perfect.",
+                "t": "Do you remember anything else from your life?....No? Perfect.",
                 "d": {
                     "cid": 0,
                     "eid": "E1AB53218028024A756A90889AE32B51319D"
@@ -572,7 +572,7 @@ GS.dataCache['8B98E344291A3148BE18E4E22AA0EE72746F'] = {
                     },
                     "message": {
                         "lcId": "4A4E380827230143C86BE1E6B24097FCE1AC",
-                        "defaultText": "Do you remember anything from your life?....No? Perfect."
+                        "defaultText": "Do you remember anything else from your life?....No? Perfect."
                     },
                     "position": 0,
                     "characterId": 0,
@@ -907,7 +907,7 @@ GS.dataCache['8B98E344291A3148BE18E4E22AA0EE72746F'] = {
                 "id": "gs.StopMusic",
                 "params": {
                     "layer": 0,
-                    "fadeOutDuration": 6,
+                    "fadeOutDuration": 60,
                     "fieldFlags": {
                         "fadeOutDuration": 0
                     }

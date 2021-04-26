@@ -157,9 +157,9 @@ GS.dataCache['4BCA371970676647D03AF501763B4FF8E0C5'] = {
                 }
             },
             "0270D1C45087094E3F7BAEA9229D80C1F61F": {
-                "t": "(This part finishes here. Update soon.)",
+                "t": "I know we don't have to sleep, but...my bed is calling to me right now.",
                 "d": {
-                    "cid": 0,
+                    "cid": "50AD6E874D53914E978815C0A9CE8B96B773",
                     "eid": "CDF8D0D83FA47242B78914482ACB0BC08417"
                 }
             },
@@ -175,6 +175,150 @@ GS.dataCache['4BCA371970676647D03AF501763B4FF8E0C5'] = {
                 "d": {
                     "cid": "EBC0771624CC014F753B1CF397B07A8B6100",
                     "eid": "448C7872685EA343305A02170E4BC61B91BC"
+                }
+            },
+            "F7D0838150AB434E218B8AE7323CE8361DAA": {
+                "t": "Annie, this is Envy and Tobias. Tobias and Envy, this is Annie.",
+                "d": {
+                    "cid": "EC1C8AE072F8A641AA5818181D511081411A",
+                    "eid": "E14DA55A1ECAC74C289A33A2F5C11841AE14"
+                }
+            },
+            "8900CB3D275C71473E2B6E581CC00B0D21F6": {
+                "t": "Envy pats the space between them and Tobias. Tobias shifts to make space, and Annie takes the seat.",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "8B744C024BBEC74DAA192671AD6C26903558"
+                }
+            },
+            "EDA114F71F7B3647668B64C675E41431F0C5": {
+                "t": "The others nod, and as you get up, you feel three pairs of eyes on you.",
+                "d": {
+                    "cid": 0,
+                    "eid": "6BBC51197695D94E8A9AF9F17AD22F5CD14B"
+                }
+            },
+            "3B9CEF568BAF774CA75B5DF8ADC560CA1270": {
+                "t": "Perhaps...one of them would do well with some company their first night?",
+                "d": {
+                    "cid": 0,
+                    "eid": "28BB7C0D08F2B84C795BBC74A7820AA50486"
+                }
+            },
+            "0C4BEA26931DC645E79827E5AC5C09A87C79": {
+                "t": "Spend the night with Envy.",
+                "d": {
+                    "eid": "EEA6868B3E91354C1D38D8F83E4E169B8D83"
+                }
+            },
+            "FADEEDEF275BF64FD90A017026D92BC94F98": {
+                "t": "Spend the night with Annie.",
+                "d": {
+                    "eid": "15ACB2208E22844F2959B485425F29CE3143"
+                }
+            },
+            "392EB7E384A28944541AF057545C359DE2BF": {
+                "t": "Spend the night with Tobias.",
+                "d": {
+                    "eid": "C70313884363944EA13A74514C2B08A84186"
+                }
+            },
+            "0AC49DBC72FAC74AA68A4C9269DE44674819": {
+                "t": "You stop Annie before she leaves.",
+                "d": {
+                    "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "eid": "B1E8181864DBC34FEB7A50E39FC787E100AA"
+                }
+            },
+            "DEDB4C5609A63246178B2C3538F9C0729985": {
+                "t": "Um, what's up?",
+                "d": {
+                    "cid": "EC1069623F2E984B8B5B77C27381A1FDEE20",
+                    "eid": "8BA3EDC9688D244C813BB414A3D7715CB28F"
+                }
+            },
+            "E0CFAD5C3BA3D7475C4A6E98A5DA354435A2": {
+                "t": "I just thought you could use some company.",
+                "d": {
+                    "cid": "EC1C8AE072F8A641AA5818181D511081411A",
+                    "eid": "0A79BF403BBD1845C389D4C653F7BBAD3317"
+                }
+            },
+            "84261F5D2003E240F668B40704469347FB19": {
+                "t": "Actually...I was going to ask if you wanted to come to my room with me but I chickened out, haha. ",
+                "d": {
+                    "cid": "EC1069623F2E984B8B5B77C27381A1FDEE20",
+                    "eid": "B996E2691C1C514CB30A02C6AB5AB50C55E1"
+                }
+            },
+            "8A7A84495FFEE84B878A30151A703B9D3B6D": {
+                "t": "I don't really want to be alone tonight, and weirdly enough...I don't know. I just get the feeling that I can trust you. And everyone on this ship.",
+                "d": {
+                    "cid": "EC1069623F2E984B8B5B77C27381A1FDEE20",
+                    "eid": "27C0EA0A79C9304EEC9A50538F480DA22966"
+                }
+            },
+            "4BC2921D3DD4F843104901D87B8937D10616": {
+                "t": "{N:0001}, if it isn't too much to ask...Would you perhaps come back to my room with me?",
+                "d": {
+                    "cid": "50AD6E874D53914E978815C0A9CE8B96B773",
+                    "eid": "CCC7ECCA8687164E7A98D41579214C23A9B0"
+                }
+            },
+            "AEBEBED92896D5434B99AEC31A2991344625": {
+                "t": "I'm not propositioning you, it's just that...I would appreciate your presence. It is a difficult time for everyone, and if I may be slightly selfish...I don't want to spend the night alone.",
+                "d": {
+                    "cid": "50AD6E874D53914E978815C0A9CE8B96B773",
+                    "eid": "953899A94AE89842DF5A8421256AC83DFF66"
+                }
+            },
+            "7472C3118E56534AA68AEEC70D308024F7C7": {
+                "t": "Of course.",
+                "d": {
+                    "cid": "EC1C8AE072F8A641AA5818181D511081411A",
+                    "eid": "557CED5D8F69534C9F092B54631B2B1D36CE"
+                }
+            },
+            "5CA683F0688AE241D02900013416AC7CF0C3": {
+                "t": "Perfect. Thank you.",
+                "d": {
+                    "cid": "50AD6E874D53914E978815C0A9CE8B96B773",
+                    "eid": "68D1B66E2B5975408C7BCDB1D5823F2DB355"
+                }
+            },
+            "5800F1FD157E894DC8486555B1EB2D4E4B10": {
+                "t": "You stop Tobias before he leaves.",
+                "d": {
+                    "cid": 0,
+                    "eid": "AE82C61756972843028BE56105C6AF04AF5A"
+                }
+            },
+            "F66206A19FAAF14BC60AA3B217FFEFFF333E": {
+                "t": "Hey, you need something?",
+                "d": {
+                    "cid": "EBC0771624CC014F753B1CF397B07A8B6100",
+                    "eid": "D6998AD1136A524E2D2B4F5257C78AD5EE5C"
+                }
+            },
+            "AEA96AE969D21948867A047562ED1C8161D1": {
+                "t": "I just thought you might appreciate not being alone on your first night.",
+                "d": {
+                    "cid": "EC1C8AE072F8A641AA5818181D511081411A",
+                    "eid": "A26A5833218BE3496A1907B3BBCB11F3CDD9"
+                }
+            },
+            "6960D2871ED2C84E9F49C3A48A6923490158": {
+                "t": "Actually, yeah. I mean, this boat seems nice and all but man, I don't really want to be alone on a ship full of dead people. Not to knock on the others, though.",
+                "d": {
+                    "cid": "EBC0771624CC014F753B1CF397B07A8B6100",
+                    "eid": "E155F3BA0633B5493839AC24557F28B971B1"
+                }
+            },
+            "A52295363F21014A04991E32DE4066D52311": {
+                "t": "So, shall we get going?",
+                "d": {
+                    "cid": "EBC0771624CC014F753B1CF397B07A8B6100",
+                    "eid": "229458A42FEB41411249A8344423D2513761"
                 }
             }
         },
@@ -467,6 +611,112 @@ GS.dataCache['4BCA371970676647D03AF501763B4FF8E0C5'] = {
                 "uid": "158F43EB227DC54EC26A7B48972907E82365",
                 "indent": 0,
                 "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "F7D0838150AB434E218B8AE7323CE8361DAA",
+                        "defaultText": "Annie, this is Envy and Tobias. Tobias and Envy, this is Annie."
+                    },
+                    "position": 0,
+                    "characterId": "EC1C8AE072F8A641AA5818181D511081411A",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "E14DA55A1ECAC74C289A33A2F5C11841AE14",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "8900CB3D275C71473E2B6E581CC00B0D21F6",
+                        "defaultText": "Envy pats the space between them and Tobias. Tobias shifts to make space, and Annie takes the seat."
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "8B744C024BBEC74DAA192671AD6C26903558",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "vn.MoveCharacter",
+                "params": {
+                    "characterId": "EC1069623F2E984B8B5B77C27381A1FDEE20",
+                    "predefinedPositionId": 5,
+                    "duration": 60,
+                    "waitForCompletion": 0,
+                    "positionType": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    }
+                },
+                "uid": "69EE19635E3CC0460A9ABFB2F5B7DC6FF4BD",
+                "indent": 0
+            },
+            {
+                "id": "vn.MoveCharacter",
+                "params": {
+                    "characterId": "EBC0771624CC014F753B1CF397B07A8B6100",
+                    "predefinedPositionId": 4,
+                    "duration": 60,
+                    "waitForCompletion": 0,
+                    "positionType": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    }
+                },
+                "uid": "A2CB0C1B17DC62455448B8E2674024ECC3D6",
+                "indent": 0
             },
             {
                 "id": "gs.ShowMessage",
@@ -778,6 +1028,14 @@ GS.dataCache['4BCA371970676647D03AF501763B4FF8E0C5'] = {
                 "indent": 0
             },
             {
+                "id": "gs.WaitCommand",
+                "params": {
+                    "time": 300
+                },
+                "uid": "0890495F628C834DF45BED64FA12CBAD0AFC",
+                "indent": 0
+            },
+            {
                 "id": "gs.ShowMessage",
                 "params": {
                     "waitForCompletion": 1,
@@ -816,7 +1074,7 @@ GS.dataCache['4BCA371970676647D03AF501763B4FF8E0C5'] = {
                     "viewport": {
                         "type": "scene"
                     },
-                    "predefinedPositionId": 5,
+                    "predefinedPositionId": 4,
                     "expressionId": null,
                     "characterId": "EBC0771624CC014F753B1CF397B07A8B6100",
                     "zOrder": 0,
@@ -1211,10 +1469,10 @@ GS.dataCache['4BCA371970676647D03AF501763B4FF8E0C5'] = {
                     },
                     "message": {
                         "lcId": "0270D1C45087094E3F7BAEA9229D80C1F61F",
-                        "defaultText": "(This part finishes here. Update soon.)"
+                        "defaultText": "I know we don't have to sleep, but...my bed is calling to me right now."
                     },
                     "position": 0,
-                    "characterId": 0,
+                    "characterId": "50AD6E874D53914E978815C0A9CE8B96B773",
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
@@ -1225,10 +1483,860 @@ GS.dataCache['4BCA371970676647D03AF501763B4FF8E0C5'] = {
                 "uid": "CDF8D0D83FA47242B78914482ACB0BC08417",
                 "indent": 0,
                 "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "EDA114F71F7B3647668B64C675E41431F0C5",
+                        "defaultText": "The others nod, and as you get up, you feel three pairs of eyes on you."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "6BBC51197695D94E8A9AF9F17AD22F5CD14B",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "3B9CEF568BAF774CA75B5DF8ADC560CA1270",
+                        "defaultText": "Perhaps...one of them would do well with some company their first night?"
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "28BB7C0D08F2B84C795BBC74A7820AA50486",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "envybedroom1",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "0C4BEA26931DC645E79827E5AC5C09A87C79",
+                        "defaultText": "Spend the night with Envy."
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 0,
+                    "box": {
+                        "x": 0,
+                        "y": 0,
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0
+                },
+                "uid": "EEA6868B3E91354C1D38D8F83E4E169B8D83",
+                "indent": 0
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "anniebedroom1",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "FADEEDEF275BF64FD90A017026D92BC94F98",
+                        "defaultText": "Spend the night with Annie."
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 0,
+                    "box": {
+                        "x": 0,
+                        "y": 0,
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0
+                },
+                "uid": "15ACB2208E22844F2959B485425F29CE3143",
+                "indent": 0
+            },
+            {
+                "id": "vn.Choice",
+                "params": {
+                    "action": {
+                        "type": 0,
+                        "bindValue": 0,
+                        "bindValueVariable": {
+                            "scope": 0,
+                            "index": 0
+                        },
+                        "commonEventId": 0,
+                        "label": "tobibedroom1",
+                        "switch": {
+                            "scope": 1,
+                            "index": 0
+                        },
+                        "scene": null
+                    },
+                    "text": {
+                        "lcId": "392EB7E384A28944541AF057545C359DE2BF",
+                        "defaultText": "Spend the night with Tobias."
+                    },
+                    "label": "",
+                    "enabled": 1,
+                    "positionType": 0,
+                    "box": {
+                        "x": 0,
+                        "y": 0,
+                        "size": {
+                            "width": 300,
+                            "height": 50
+                        }
+                    },
+                    "defaultChoice": 0
+                },
+                "uid": "C70313884363944EA13A74514C2B08A84186",
+                "indent": 0
+            },
+            {
+                "id": "vn.ShowChoices",
+                "params": {},
+                "uid": "3A156B5D8B1D1443E07AEF5399283A1642A7",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "envybedroom1"
+                },
+                "uid": "269B20F41D22B94B453B6A463390A076E4D8",
+                "indent": 0
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "E701C6683B5735446D4A9571D57343333367",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "uid": "14D7D1255FFE66418278C1924C712FE57077",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "4BC2921D3DD4F843104901D87B8937D10616",
+                        "defaultText": "{N:0001}, if it isn't too much to ask...Would you perhaps come back to my room with me?"
+                    },
+                    "position": 0,
+                    "characterId": "50AD6E874D53914E978815C0A9CE8B96B773",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "CCC7ECCA8687164E7A98D41579214C23A9B0",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": "9B16C20D8366334D8E3ADBD4D7CE159ECE39",
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "AEBEBED92896D5434B99AEC31A2991344625",
+                        "defaultText": "I'm not propositioning you, it's just that...I would appreciate your presence. It is a difficult time for everyone, and if I may be slightly selfish...I don't want to spend the night alone."
+                    },
+                    "position": 0,
+                    "characterId": "50AD6E874D53914E978815C0A9CE8B96B773",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "953899A94AE89842DF5A8421256AC83DFF66",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "7472C3118E56534AA68AEEC70D308024F7C7",
+                        "defaultText": "Of course."
+                    },
+                    "position": 0,
+                    "characterId": "EC1C8AE072F8A641AA5818181D511081411A",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "557CED5D8F69534C9F092B54631B2B1D36CE",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": "BF7CB12110894142C299D341A545C910AA86",
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "5CA683F0688AE241D02900013416AC7CF0C3",
+                        "defaultText": "Perfect. Thank you."
+                    },
+                    "position": 0,
+                    "characterId": "50AD6E874D53914E978815C0A9CE8B96B773",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "68D1B66E2B5975408C7BCDB1D5823F2DB355",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "vn.CharacterExitScene",
+                "params": {
+                    "characterId": "50AD6E874D53914E978815C0A9CE8B96B773",
+                    "duration": 60,
+                    "waitForCompletion": 0,
+                    "easing": {
+                        "type": 1,
+                        "inOut": 0
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 0
+                    }
+                },
+                "uid": "31BC056654222849B38984F868F87988A003",
+                "indent": 0
+            },
+            {
+                "id": "vn.ChangeScene",
+                "params": {
+                    "scene": {
+                        "uid": "59EDE4B696E2E94D838AEBC79C732F2B0878",
+                        "name": "Bedtime with Envy"
+                    },
+                    "savePrevious": 0,
+                    "erasePictures": 0,
+                    "eraseTexts": 0,
+                    "eraseVideos": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "0368684773F1D841DF290EE742E308C1EBBB",
+                "indent": 0
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": 0,
+                    "parameters": {
+                        "values": [
+                            {
+                                "scope": 1,
+                                "index": 0,
+                                "domain": "com.degica.vnm.default"
+                            }
+                        ]
+                    }
+                },
+                "uid": "3394F4DB18E0854A0D183AD1FBA7B96330B4",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "anniebedroom1"
+                },
+                "uid": "3AF5A501959EC540063B950221AA00E1F124",
+                "indent": 0
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "BFAFA04E6396254EEC4B7476FB6461414829",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "uid": "8EC8254B435D764F286911B8C0C80AC55929",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "0AC49DBC72FAC74AA68A4C9269DE44674819",
+                        "defaultText": "You stop Annie before she leaves."
+                    },
+                    "position": 0,
+                    "characterId": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "B1E8181864DBC34FEB7A50E39FC787E100AA",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "DEDB4C5609A63246178B2C3538F9C0729985",
+                        "defaultText": "Um, what's up?"
+                    },
+                    "position": 0,
+                    "characterId": "EC1069623F2E984B8B5B77C27381A1FDEE20",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "8BA3EDC9688D244C813BB414A3D7715CB28F",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "E0CFAD5C3BA3D7475C4A6E98A5DA354435A2",
+                        "defaultText": "I just thought you could use some company."
+                    },
+                    "position": 0,
+                    "characterId": "EC1C8AE072F8A641AA5818181D511081411A",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "0A79BF403BBD1845C389D4C653F7BBAD3317",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "84261F5D2003E240F668B40704469347FB19",
+                        "defaultText": "Actually...I was going to ask if you wanted to come to my room with me but I chickened out, haha. "
+                    },
+                    "position": 0,
+                    "characterId": "EC1069623F2E984B8B5B77C27381A1FDEE20",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "B996E2691C1C514CB30A02C6AB5AB50C55E1",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "8A7A84495FFEE84B878A30151A703B9D3B6D",
+                        "defaultText": "I don't really want to be alone tonight, and weirdly enough...I don't know. I just get the feeling that I can trust you. And everyone on this ship."
+                    },
+                    "position": 0,
+                    "characterId": "EC1069623F2E984B8B5B77C27381A1FDEE20",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "27C0EA0A79C9304EEC9A50538F480DA22966",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "vn.CharacterExitScene",
+                "params": {
+                    "characterId": "EC1069623F2E984B8B5B77C27381A1FDEE20",
+                    "duration": 60,
+                    "waitForCompletion": 0,
+                    "easing": {
+                        "type": 1,
+                        "inOut": 0
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 0
+                    }
+                },
+                "uid": "FF15A4C46392C647CE78FD6158536F8699CE",
+                "indent": 0
+            },
+            {
+                "id": "vn.ChangeScene",
+                "params": {
+                    "scene": {
+                        "uid": "4926DBE268D2464CAE1AB8379F36CE69AFED",
+                        "name": "Bedtime with Annie"
+                    },
+                    "savePrevious": 0,
+                    "erasePictures": 0,
+                    "eraseTexts": 0,
+                    "eraseVideos": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "CBDDECF21EF5834B00590C6167058A53724B",
+                "indent": 0
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": 0,
+                    "parameters": {
+                        "values": [
+                            {
+                                "scope": 1,
+                                "index": 0,
+                                "domain": "com.degica.vnm.default"
+                            }
+                        ]
+                    }
+                },
+                "uid": "908F552E1E399448908A1C45A81465E093D7",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "tobibedroom1"
+                },
+                "uid": "99752D6622D99341711BCE36527117081FD5",
+                "indent": 0
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "CFE6DA2E6B91724ADF5A88C112DB6F4CC752",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "uid": "2E16E8404D89834E109A14A7849B9E3773B7",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "5800F1FD157E894DC8486555B1EB2D4E4B10",
+                        "defaultText": "You stop Tobias before he leaves."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "AE82C61756972843028BE56105C6AF04AF5A",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "F66206A19FAAF14BC60AA3B217FFEFFF333E",
+                        "defaultText": "Hey, you need something?"
+                    },
+                    "position": 0,
+                    "characterId": "EBC0771624CC014F753B1CF397B07A8B6100",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "D6998AD1136A524E2D2B4F5257C78AD5EE5C",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "AEA96AE969D21948867A047562ED1C8161D1",
+                        "defaultText": "I just thought you might appreciate not being alone on your first night."
+                    },
+                    "position": 0,
+                    "characterId": "EC1C8AE072F8A641AA5818181D511081411A",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "A26A5833218BE3496A1907B3BBCB11F3CDD9",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "6960D2871ED2C84E9F49C3A48A6923490158",
+                        "defaultText": "Actually, yeah. I mean, this boat seems nice and all but man, I don't really want to be alone on a ship full of dead people. Not to knock on the others, though."
+                    },
+                    "position": 0,
+                    "characterId": "EBC0771624CC014F753B1CF397B07A8B6100",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "E155F3BA0633B5493839AC24557F28B971B1",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": "A43334F28901094B6A5B10F1CB137F90CC68",
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "A52295363F21014A04991E32DE4066D52311",
+                        "defaultText": "So, shall we get going?"
+                    },
+                    "position": 0,
+                    "characterId": "EBC0771624CC014F753B1CF397B07A8B6100",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "229458A42FEB41411249A8344423D2513761",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "vn.ChangeScene",
+                "params": {
+                    "scene": {
+                        "uid": "C9AA965A6658C041D459A346410A3365EF8E",
+                        "name": "Bedtime with Tobias"
+                    },
+                    "savePrevious": 0,
+                    "erasePictures": 0,
+                    "eraseTexts": 0,
+                    "eraseVideos": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "F22286E66B99224A0D4A8BD38154200E8158",
+                "indent": 0
             }
         ],
         "livePreviewDisabled": false,
         "listVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ],
+        "booleanVariables": [
             {
                 "name": "",
                 "index": 0,

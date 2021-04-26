@@ -694,23 +694,14 @@ GS.dataCache['DF144CC4315C054401495EF44D94E33ADA02'] = {
                 "expanded": true
             },
             {
-                "id": "gs.PlaySound",
+                "id": "gs.CallCommonEvent",
                 "params": {
-                    "sound": {
-                        "name": "honkhonk",
-                        "volume": "5",
-                        "playbackRate": 100
-                    },
-                    "musicEffect": 0,
-                    "fieldFlags": {
-                        "sound.volume": 0,
-                        "sound.playbackRate": 1
-                    },
-                    "previewBackground": {
-                        "name": "$live_preview_snapshot"
+                    "commonEventId": "AD3B5FB87759B2465569520753D4065B2705",
+                    "parameters": {
+                        "values": []
                     }
                 },
-                "uid": "DF47C426643E434AD97843B62C3718E2A04C",
+                "uid": "A280B87885442247E26B720392619AD83BB7",
                 "indent": 0
             },
             {
@@ -1047,23 +1038,14 @@ GS.dataCache['DF144CC4315C054401495EF44D94E33ADA02'] = {
                 "expanded": true
             },
             {
-                "id": "gs.PlaySound",
+                "id": "gs.CallCommonEvent",
                 "params": {
-                    "sound": {
-                        "name": "honkhonk",
-                        "volume": 5,
-                        "playbackRate": 100
-                    },
-                    "musicEffect": 0,
-                    "fieldFlags": {
-                        "sound.volume": 0,
-                        "sound.playbackRate": 1
-                    },
-                    "previewBackground": {
-                        "name": "$live_preview_snapshot"
+                    "commonEventId": "AD3B5FB87759B2465569520753D4065B2705",
+                    "parameters": {
+                        "values": []
                     }
                 },
-                "uid": "72B8BA3C126062405A18BC01343BFE804F61",
+                "uid": "3988C5395FE7F840615958823344E3A0AD6D",
                 "indent": 0
             },
             {

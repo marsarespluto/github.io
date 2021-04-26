@@ -71,7 +71,7 @@ GS.dataCache['1414C2F80612C54F580B8768617ABC5F4546'] = {
                 }
             },
             "891396FB7B0271497C384E33E7DFB90EE8BF": {
-                "t": "Oh god, the others. I hope they don't think of me badly for this.",
+                "t": "Oh god, the others. I hope they don't judge me, I don't want them to have the wrong idea of me...",
                 "d": {
                     "cid": "EC1069623F2E984B8B5B77C27381A1FDEE20",
                     "eid": "8BAD6EC872D3074E7A3B703001FCC240D020"
@@ -703,7 +703,7 @@ GS.dataCache['1414C2F80612C54F580B8768617ABC5F4546'] = {
                     },
                     "message": {
                         "lcId": "891396FB7B0271497C384E33E7DFB90EE8BF",
-                        "defaultText": "Oh god, the others. I hope they don't think of me badly for this."
+                        "defaultText": "Oh god, the others. I hope they don't judge me, I don't want them to have the wrong idea of me..."
                     },
                     "position": 0,
                     "characterId": "EC1069623F2E984B8B5B77C27381A1FDEE20",
@@ -1102,7 +1102,7 @@ GS.dataCache['1414C2F80612C54F580B8768617ABC5F4546'] = {
                 "params": {
                     "waitForCompletion": 1,
                     "duration": 15,
-                    "expressionId": null,
+                    "expressionId": "96FBD47A68E41141C72AA389B1D7DF6A9381",
                     "custom": {
                         "object": {
                             "x": 0,

@@ -1,26 +1,25 @@
-GS.dataCache['96FBD47A68E41141C72AA389B1D7DF6A9381'] = {
-    "uid": "96FBD47A68E41141C72AA389B1D7DF6A9381",
+GS.dataCache['9F3859063C2F9540008B0E0973C34F3CDB1D'] = {
+    "uid": "9F3859063C2F9540008B0E0973C34F3CDB1D",
     "isLoaded": true,
-    "lastModificationTime": 0,
+    "lastModificationTime": null,
     "items": {
-        "name": "cryingannie",
+        "name": "surpriseenvy",
         "type": "data_record",
-        "order": 2,
         "category": "characterExpressions",
-        "id": "96FBD47A68E41141C72AA389B1D7DF6A9381",
+        "id": "9F3859063C2F9540008B0E0973C34F3CDB1D",
         "isFolder": false,
-        "parentId": "692E1A9072FB7544B29A7B47CF529AE3DD77",
+        "parentId": "06906D434240E342BA68D33582373CC887D6",
         "data": {
             "idleTime": {
                 "start": 0,
                 "end": 0
             },
-            "name": "cryingannie",
+            "name": "surpriseenvy",
             "idleSpeed": 100,
             "idle": [
                 {
                     "resource": {
-                        "name": "anniecrying",
+                        "name": "envysurprise",
                         "hue": 0,
                         "opacity": 255,
                         "blending": 0,
@@ -30,8 +29,9 @@ GS.dataCache['96FBD47A68E41141C72AA389B1D7DF6A9381'] = {
             ],
             "talkingSpeed": 100,
             "talking": [],
-            "index": "96FBD47A68E41141C72AA389B1D7DF6A9381"
-        }
+            "index": "9F3859063C2F9540008B0E0973C34F3CDB1D"
+        },
+        "order": 3
     },
     "summary": [
         "name",

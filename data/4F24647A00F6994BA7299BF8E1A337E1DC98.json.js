@@ -642,7 +642,7 @@ GS.dataCache['4F24647A00F6994BA7299BF8E1A337E1DC98'] = {
                 "params": {
                     "waitForCompletion": 1,
                     "duration": 15,
-                    "expressionId": "326129B62013A748A18B3F0122137C18E02F",
+                    "expressionId": "9F3859063C2F9540008B0E0973C34F3CDB1D",
                     "custom": {
                         "object": {
                             "x": 0,
@@ -735,7 +735,7 @@ GS.dataCache['4F24647A00F6994BA7299BF8E1A337E1DC98'] = {
                         "type": "scene"
                     },
                     "predefinedPositionId": 6,
-                    "expressionId": null,
+                    "expressionId": "6CC33B3461E4604ED35A8655F16E2A3FF021",
                     "characterId": "50AD6E874D53914E978815C0A9CE8B96B773",
                     "zOrder": 0,
                     "origin": 0,
@@ -962,11 +962,101 @@ GS.dataCache['4F24647A00F6994BA7299BF8E1A337E1DC98'] = {
                 "expanded": true
             },
             {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "afterjoke"
+                },
+                "uid": "D33EE14A2D1B0946F7794BC6ED54124F7DD9",
+                "indent": 0
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "jokegood"
+                },
+                "uid": "454D8051255A8242FA8A32E6E39B4089D83C",
+                "indent": 0
+            },
+            {
                 "id": "gs.ShowMessage",
                 "params": {
                     "waitForCompletion": 1,
                     "duration": 15,
                     "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "AFDE38F3414C9048D87890F7B884DA0C0755",
+                        "defaultText": "See {N:0001} gets me."
+                    },
+                    "position": 0,
+                    "characterId": "EBC0771624CC014F753B1CF397B07A8B6100",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "CFC93974857CB648CC19E4A4C1864A432822",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "28E67CC86FF7E3464F3841474E835D60AC03",
+                        "defaultText": "You are both horrible and you both disgust me deeply."
+                    },
+                    "position": 0,
+                    "characterId": "50AD6E874D53914E978815C0A9CE8B96B773",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "C68281273839B54CE8387F02F4299E082C72",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "afterjoke"
+                },
+                "uid": "708695EF2A71204D023B50A71EF933B48DD0",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": "BF7CB12110894142C299D341A545C910AA86",
                     "custom": {
                         "object": {
                             "x": 0,
@@ -1109,15 +1199,53 @@ GS.dataCache['4F24647A00F6994BA7299BF8E1A337E1DC98'] = {
                             }
                         }
                     },
-                    "message": "",
+                    "message": {
+                        "lcId": "69FC44176A4198467139E5675DA908415EBA",
+                        "defaultText": "Before you know it, carried by the conversation, you lose yourself in Envy's attempts to cover up their amusement and Tobias' dogged will to make them laugh."
+                    },
                     "position": 0,
                     "characterId": 0,
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
-                    }
+                    },
+                    "expressions": [],
+                    "animations": []
                 },
                 "uid": "FAFE51AC32818749697B1E14743424C71A5C",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "748EF16C304FB843DD98B974AB099F4421FA",
+                        "defaultText": "There's a small knock at the door."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "EF7BD138044AE14B0B892EC12EEF452C1CBF",
                 "indent": 0,
                 "expanded": true
             },
@@ -1325,6 +1453,34 @@ GS.dataCache['4F24647A00F6994BA7299BF8E1A337E1DC98'] = {
                 "d": {
                     "cid": "50AD6E874D53914E978815C0A9CE8B96B773",
                     "eid": "AFC2C2F63E38F4418C080BE4B4F6A15D9582"
+                }
+            },
+            "69FC44176A4198467139E5675DA908415EBA": {
+                "t": "Before you know it, carried by the conversation, you lose yourself in Envy's attempts to cover up their amusement and Tobias' dogged will to make them laugh.",
+                "d": {
+                    "cid": 0,
+                    "eid": "FAFE51AC32818749697B1E14743424C71A5C"
+                }
+            },
+            "AFDE38F3414C9048D87890F7B884DA0C0755": {
+                "t": "See {N:0001} gets me.",
+                "d": {
+                    "cid": "EBC0771624CC014F753B1CF397B07A8B6100",
+                    "eid": "CFC93974857CB648CC19E4A4C1864A432822"
+                }
+            },
+            "28E67CC86FF7E3464F3841474E835D60AC03": {
+                "t": "You are both horrible and you both disgust me deeply.",
+                "d": {
+                    "cid": "50AD6E874D53914E978815C0A9CE8B96B773",
+                    "eid": "C68281273839B54CE8387F02F4299E082C72"
+                }
+            },
+            "748EF16C304FB843DD98B974AB099F4421FA": {
+                "t": "There's a small knock at the door.",
+                "d": {
+                    "cid": 0,
+                    "eid": "EF7BD138044AE14B0B892EC12EEF452C1CBF"
                 }
             }
         },

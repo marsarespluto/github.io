@@ -208,7 +208,7 @@ GS.dataCache['E55A412405E0974BD929AA400DC8BAACFB49'] = {
                         "type": "scene"
                     },
                     "predefinedPositionId": 6,
-                    "expressionId": "0C6ACF9F3563B44BB249C4E31E3A64C700D4",
+                    "expressionId": "96FBD47A68E41141C72AA389B1D7DF6A9381",
                     "characterId": "EC1069623F2E984B8B5B77C27381A1FDEE20",
                     "zOrder": 0,
                     "origin": 0,
