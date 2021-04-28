@@ -1,14 +1,15 @@
 GS.dataCache['09CC4DB0345CF24EA51B0BB51A3DD3B46043'] = {
     "uid": "09CC4DB0345CF24EA51B0BB51A3DD3B46043",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
         "name": "anniebedroomnight",
         "type": "data_record",
+        "order": 3,
         "category": "commonEvents",
         "id": "09CC4DB0345CF24EA51B0BB51A3DD3B46043",
         "isFolder": false,
-        "parentId": "ROOT",
+        "parentId": "ACEFAA572822D144FE58A5C6C1ADFF4CFD34",
         "data": {
             "name": "anniebedroomnight",
             "startCondition": 0,
@@ -177,8 +178,7 @@ GS.dataCache['09CC4DB0345CF24EA51B0BB51A3DD3B46043'] = {
                     "scope": 0
                 }
             ]
-        },
-        "order": 5
+        }
     },
     "summary": [
         "name",

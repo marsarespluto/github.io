@@ -312,6 +312,17 @@ GS.dataCache['D7E7ADFC1173394BA359C29510D1F6CFDD28'] = {
                 "indent": 0
             },
             {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "E5040E494B25F8480F68E5535CB78DABECAB",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "uid": "5281C9F18A52D44DE26960F6B8B6CE6BC2D8",
+                "indent": 0
+            },
+            {
                 "id": "vn.CharacterJoinScene",
                 "params": {
                     "viewport": {
@@ -1204,6 +1215,51 @@ GS.dataCache['D7E7ADFC1173394BA359C29510D1F6CFDD28'] = {
                 "uid": "8AFC77E04EF62142483852A1A5C98B16B2BF",
                 "indent": 0,
                 "expanded": true
+            },
+            {
+                "id": "gs.ChangeNumberVariables",
+                "params": {
+                    "target": 0,
+                    "targetVariable": {
+                        "name": "envycandyremember",
+                        "index": 8,
+                        "scope": 1,
+                        "domain": "com.degica.vnm.default",
+                        "changed": true
+                    },
+                    "targetScope": 0,
+                    "targetRange": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "targetReferenceDomain": "com.degica.vnm.default",
+                    "targetReference": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "operation": 0,
+                    "source": 0,
+                    "sourceValue": 0,
+                    "sourceRandom": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "sourceScope": 0,
+                    "sourceVariable": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "sourceReferenceDomain": "com.degica.vnm.default",
+                    "sourceReference": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "3B7D7B667E806446961BC7229F639E14D192",
+                "indent": 0
             },
             {
                 "id": "gs.CallCommonEvent",

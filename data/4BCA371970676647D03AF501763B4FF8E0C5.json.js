@@ -1549,6 +1549,39 @@ GS.dataCache['4BCA371970676647D03AF501763B4FF8E0C5'] = {
                 "expanded": true
             },
             {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B70EF7958B4D3549C968F5C3DE576C542E5D",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "uid": "4D71F9CF7219094B9C1B7DE78E3AE693C488",
+                "indent": 0
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "E5040E494B25F8480F68E5535CB78DABECAB",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "uid": "858E95B89056654A7D8A1EC53D57364C14CE",
+                "indent": 0
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "1F53556E2E37564B0F8AF1157EA75C1B2D23",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "uid": "D45B338C0931434F2A8836B63BBFB7AE903B",
+                "indent": 0
+            },
+            {
                 "id": "gs.ShowMessage",
                 "params": {
                     "waitForCompletion": 1,
@@ -2427,6 +2460,14 @@ GS.dataCache['4BCA371970676647D03AF501763B4FF8E0C5'] = {
                 "name": "",
                 "index": 0,
                 "scope": 0
+            }
+        ],
+        "stringVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0,
+                "domain": "com.degica.vnm.default"
             }
         ]
     },

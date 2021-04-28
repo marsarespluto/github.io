@@ -627,6 +627,17 @@ GS.dataCache['A3AAD4EE147DE041C33AC35744876DDF8398'] = {
                 "expanded": true
             },
             {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "1F53556E2E37564B0F8AF1157EA75C1B2D23",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "uid": "B15274C0158D17488C4B7343F14E432C9D20",
+                "indent": 0
+            },
+            {
                 "id": "gs.StopMusic",
                 "params": {
                     "layer": 0,

@@ -29,6 +29,17 @@ GS.dataCache['C9AA965A6658C041D459A346410A3365EF8E'] = {
                 "indent": 0
             },
             {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B70EF7958B4D3549C968F5C3DE576C542E5D",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "uid": "D6CF34DB2394134DA72A6AE416A77A016941",
+                "indent": 0
+            },
+            {
                 "id": "gs.ShowMessage",
                 "params": {
                     "waitForCompletion": 1,
@@ -782,6 +793,51 @@ GS.dataCache['C9AA965A6658C041D459A346410A3365EF8E'] = {
                 "indent": 0
             },
             {
+                "id": "gs.ChangeNumberVariables",
+                "params": {
+                    "target": 0,
+                    "targetVariable": {
+                        "name": "tobiasromance",
+                        "index": 3,
+                        "scope": 1,
+                        "changed": true,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "targetScope": 0,
+                    "targetRange": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "targetReferenceDomain": "com.degica.vnm.default",
+                    "targetReference": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "operation": 1,
+                    "source": 0,
+                    "sourceValue": 0,
+                    "sourceRandom": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "sourceScope": 0,
+                    "sourceVariable": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "sourceReferenceDomain": "com.degica.vnm.default",
+                    "sourceReference": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "4F6C2F7D6528114D134B5A049B61177FBBC8",
+                "indent": 0
+            },
+            {
                 "id": "gs.ShowMessage",
                 "params": {
                     "waitForCompletion": 1,
@@ -1123,6 +1179,51 @@ GS.dataCache['C9AA965A6658C041D459A346410A3365EF8E'] = {
                     "name": "floorsleeptobi"
                 },
                 "uid": "B88ED1D20B362440941886B16F6B92FB9C2A",
+                "indent": 0
+            },
+            {
+                "id": "gs.ChangeNumberVariables",
+                "params": {
+                    "target": 0,
+                    "targetVariable": {
+                        "name": "tobiashomie",
+                        "scope": 1,
+                        "index": 0,
+                        "changed": true,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "targetScope": 0,
+                    "targetRange": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "targetReferenceDomain": "com.degica.vnm.default",
+                    "targetReference": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "operation": 1,
+                    "source": 0,
+                    "sourceValue": 5,
+                    "sourceRandom": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "sourceScope": 0,
+                    "sourceVariable": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "sourceReferenceDomain": "com.degica.vnm.default",
+                    "sourceReference": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "903F794461A2194B864B7DB2BCDFB535A3FE",
                 "indent": 0
             },
             {

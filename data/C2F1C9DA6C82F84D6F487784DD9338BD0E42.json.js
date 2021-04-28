@@ -5,11 +5,11 @@ GS.dataCache['C2F1C9DA6C82F84D6F487784DD9338BD0E42'] = {
     "items": {
         "name": "envybedroomnight",
         "type": "data_record",
-        "order": 8,
+        "order": 1,
         "category": "commonEvents",
         "id": "C2F1C9DA6C82F84D6F487784DD9338BD0E42",
         "isFolder": false,
-        "parentId": "ROOT",
+        "parentId": "ACEFAA572822D144FE58A5C6C1ADFF4CFD34",
         "data": {
             "name": "envybedroomnight",
             "startCondition": 0,

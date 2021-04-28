@@ -194,6 +194,13 @@ GS.dataCache['8B98E344291A3148BE18E4E22AA0EE72746F'] = {
                     "cid": 0,
                     "eid": "5F86EAFE0F71C448306BB982D7F3B6EA1521"
                 }
+            },
+            "E7FD3C0771AE034A8B097AE4F05BFCB353D0": {
+                "t": "I knew you'd go for the goth one, British boy.",
+                "d": {
+                    "cid": 0,
+                    "eid": "11CCCDC48F0B824F771B065371EA5DA8A927"
+                }
             }
         },
         "commands": [
@@ -1061,6 +1068,69 @@ GS.dataCache['8B98E344291A3148BE18E4E22AA0EE72746F'] = {
                     "name": "allowednames"
                 },
                 "uid": "189F5D8D19EE974BFE292930B18E07C12109",
+                "indent": 1
+            },
+            {
+                "id": "gs.ConditionElseIf",
+                "params": {
+                    "variable": {
+                        "name": "PlayerName",
+                        "scope": 1,
+                        "index": 0,
+                        "changed": true,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "numberValue": 0,
+                    "textValue": "Sam",
+                    "switchValue": 0,
+                    "valueType": 2,
+                    "operation": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "F707F23345F6F146B88AD07264DFD86D8D81",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "E7FD3C0771AE034A8B097AE4F05BFCB353D0",
+                        "defaultText": "I knew you'd go for the goth one, British boy."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "11CCCDC48F0B824F771B065371EA5DA8A927",
+                "indent": 1,
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "allowednames"
+                },
+                "uid": "7E0903168CC0944B0A7B666659AD84057F65",
                 "indent": 1
             },
             {

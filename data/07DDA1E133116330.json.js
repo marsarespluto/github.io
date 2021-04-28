@@ -7,10 +7,11 @@ GS.dataCache['07DDA1E133116330'] = {
         "type": "global_variables",
         "numbers": [
             {
-                "name": "",
+                "name": "tobiashomie",
                 "scope": 1,
                 "index": 0,
-                "changed": true
+                "changed": true,
+                "domain": "com.degica.vnm.default"
             },
             {
                 "name": "My Other Var X",
@@ -25,34 +26,46 @@ GS.dataCache['07DDA1E133116330'] = {
                 "changed": true
             },
             {
-                "name": "",
+                "name": "tobiasromance",
                 "index": 3,
-                "scope": 1
+                "scope": 1,
+                "changed": true,
+                "domain": "com.degica.vnm.default"
             },
             {
-                "name": "",
+                "name": "envyhomie",
                 "index": 4,
-                "scope": 1
+                "scope": 1,
+                "changed": true,
+                "domain": "com.degica.vnm.default"
             },
             {
-                "name": "",
+                "name": "envyromance",
                 "index": 5,
-                "scope": 1
+                "scope": 1,
+                "changed": true,
+                "domain": "com.degica.vnm.default"
             },
             {
-                "name": "",
+                "name": "anniehomie",
                 "index": 6,
-                "scope": 1
+                "scope": 1,
+                "changed": true,
+                "domain": "com.degica.vnm.default"
             },
             {
-                "name": "",
+                "name": "annieromance",
                 "index": 7,
-                "scope": 1
+                "scope": 1,
+                "domain": "com.degica.vnm.default",
+                "changed": true
             },
             {
-                "name": "",
+                "name": "envycandyremember",
                 "index": 8,
-                "scope": 1
+                "scope": 1,
+                "domain": "com.degica.vnm.default",
+                "changed": true
             },
             {
                 "name": "",

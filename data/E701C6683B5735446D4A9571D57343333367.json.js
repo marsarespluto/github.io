@@ -5,11 +5,11 @@ GS.dataCache['E701C6683B5735446D4A9571D57343333367'] = {
     "items": {
         "name": "envyscene",
         "type": "data_record",
-        "order": 3,
+        "order": 1,
         "category": "commonEvents",
         "id": "E701C6683B5735446D4A9571D57343333367",
         "isFolder": false,
-        "parentId": "ROOT",
+        "parentId": "4BA5B5173A89A8471F8936236FD9526AB218",
         "data": {
             "name": "envyscene",
             "startCondition": 0,

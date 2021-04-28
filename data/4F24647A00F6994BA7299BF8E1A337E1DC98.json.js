@@ -445,6 +445,17 @@ GS.dataCache['4F24647A00F6994BA7299BF8E1A337E1DC98'] = {
                 "expanded": true
             },
             {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "1F53556E2E37564B0F8AF1157EA75C1B2D23",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "uid": "5FD562851B07384EBC5BFC14A6D7CD4B7486",
+                "indent": 0
+            },
+            {
                 "id": "gs.StopMusic",
                 "params": {
                     "layer": 0,
@@ -480,6 +491,28 @@ GS.dataCache['4F24647A00F6994BA7299BF8E1A337E1DC98'] = {
                     "name": "nottoday"
                 },
                 "uid": "8191268D9FB0E44F6D1B02C69DC263AE3240",
+                "indent": 0
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "E5040E494B25F8480F68E5535CB78DABECAB",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "uid": "99B9FA362182914D96480FE82B99B5FB41EF",
+                "indent": 0
+            },
+            {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B70EF7958B4D3549C968F5C3DE576C542E5D",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "uid": "5D285F958120124263881A27D029CEC95C0C",
                 "indent": 0
             },
             {

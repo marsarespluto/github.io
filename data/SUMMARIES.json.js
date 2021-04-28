@@ -3197,21 +3197,21 @@ GS.dataCache['SUMMARIES'] = {
             "items": {
                 "name": "anniescene",
                 "type": "data_record",
-                "order": 2
+                "order": 0
             }
         },
         "E701C6683B5735446D4A9571D57343333367": {
             "items": {
                 "name": "envyscene",
                 "type": "data_record",
-                "order": 3
+                "order": 1
             }
         },
         "CFE6DA2E6B91724ADF5A88C112DB6F4CC752": {
             "items": {
                 "name": "tobiscene",
                 "type": "data_record",
-                "order": 4
+                "order": 2
             }
         },
         "14C1B16B43E098442B38DDE2CEDB7A832FF3": {
@@ -3293,35 +3293,35 @@ GS.dataCache['SUMMARIES'] = {
             "items": {
                 "name": "anniebedroomnight",
                 "type": "data_record",
-                "order": 5
+                "order": 3
             }
         },
         "DB087B876837F14F895AA774EFF9C062F9AB": {
             "items": {
                 "name": "envybedroom",
                 "type": "data_record",
-                "order": 7
+                "order": 4
             }
         },
         "2F2EF76A29CD244C777816787551DE0A054C": {
             "items": {
                 "name": "tobibedroom",
                 "type": "data_record",
-                "order": 9
+                "order": 0
             }
         },
         "C2F1C9DA6C82F84D6F487784DD9338BD0E42": {
             "items": {
                 "name": "envybedroomnight",
                 "type": "data_record",
-                "order": 8
+                "order": 1
             }
         },
         "122D5A3C6B1F704674895152A894E3D069D1": {
             "items": {
                 "name": "anniebedroom",
                 "type": "data_record",
-                "order": 6
+                "order": 2
             }
         },
         "9B16C20D8366334D8E3ADBD4D7CE159ECE39": {
@@ -3380,6 +3380,75 @@ GS.dataCache['SUMMARIES'] = {
                 "name": "Morning with Tobias",
                 "type": "vn.scene",
                 "parentId": "0B6DCCCD23B8B64AE90B352574B0FBFFE2CA",
+                "chapterUid": "33CA8B7A0CD3B540DA7A46943C31E3392A9E",
+                "order": 0
+            }
+        },
+        "ACEFAA572822D144FE58A5C6C1ADFF4CFD34": {
+            "items": {
+                "name": "bedroom scenes",
+                "type": "data_record",
+                "order": 2
+            }
+        },
+        "4BA5B5173A89A8471F8936236FD9526AB218": {
+            "items": {
+                "name": "Joinscene",
+                "type": "data_record",
+                "order": 3
+            }
+        },
+        "4908EBA858F6C14E6F8AF117CBCF368E0B87": {
+            "items": {
+                "name": "Affection meters",
+                "type": "data_record",
+                "order": 4
+            }
+        },
+        "B70EF7958B4D3549C968F5C3DE576C542E5D": {
+            "items": {
+                "name": "Tobias Affection",
+                "type": "data_record",
+                "order": 0
+            }
+        },
+        "E5040E494B25F8480F68E5535CB78DABECAB": {
+            "items": {
+                "name": "Envy Affection",
+                "type": "data_record",
+                "order": 1
+            }
+        },
+        "1F53556E2E37564B0F8AF1157EA75C1B2D23": {
+            "items": {
+                "name": "Annie Affection",
+                "type": "data_record",
+                "order": 2
+            }
+        },
+        "73CC311B5E04B8488D0A2DC92F429DE00667": {
+            "items": {
+                "name": "Annie Reading",
+                "type": "vn.scene",
+                "parentId": "4926DBE268D2464CAE1AB8379F36CE69AFED",
+                "chapterUid": "33CA8B7A0CD3B540DA7A46943C31E3392A9E",
+                "order": 0
+            }
+        },
+        "8EBD5CBF6847724A9D198FD8A024C21CC2E7": {
+            "items": {
+                "name": "Morning with Annie",
+                "type": "vn.scene",
+                "parentId": "0B6DCCCD23B8B64AE90B352574B0FBFFE2CA",
+                "chapterUid": "33CA8B7A0CD3B540DA7A46943C31E3392A9E",
+                "order": 1
+            }
+        },
+        "ECC1F05D2804714CC73949284DB4A07D01B7": {
+            "items": {
+                "name": "Envy's Poem",
+                "type": "vn.scene",
+                "parentId": "59EDE4B696E2E94D838AEBC79C732F2B0878",
                 "chapterUid": "33CA8B7A0CD3B540DA7A46943C31E3392A9E",
                 "order": 0
             }

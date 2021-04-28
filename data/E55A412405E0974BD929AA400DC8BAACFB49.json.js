@@ -60,6 +60,270 @@ GS.dataCache['E55A412405E0974BD929AA400DC8BAACFB49'] = {
                 "expanded": false
             },
             {
+                "id": "gs.ChangeNumberVariables",
+                "params": {
+                    "target": 0,
+                    "targetVariable": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "targetScope": 0,
+                    "targetRange": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "targetReferenceDomain": "com.degica.vnm.default",
+                    "targetReference": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "operation": 0,
+                    "source": 0,
+                    "sourceValue": 0,
+                    "sourceRandom": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "sourceScope": 0,
+                    "sourceVariable": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "sourceReferenceDomain": "com.degica.vnm.default",
+                    "sourceReference": {
+                        "index": 0,
+                        "scope": 1
+                    }
+                },
+                "uid": "8CD0F632553FB34D365AB370EE15B31700B8",
+                "indent": 0
+            },
+            {
+                "id": "gs.ChangeNumberVariables",
+                "params": {
+                    "target": 0,
+                    "targetVariable": {
+                        "name": "tobiasromance",
+                        "index": 3,
+                        "scope": 1,
+                        "changed": true,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "targetScope": 0,
+                    "targetRange": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "targetReferenceDomain": "com.degica.vnm.default",
+                    "targetReference": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "operation": 0,
+                    "source": 0,
+                    "sourceValue": 0,
+                    "sourceRandom": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "sourceScope": 0,
+                    "sourceVariable": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "sourceReferenceDomain": "com.degica.vnm.default",
+                    "sourceReference": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "084A658946743940854A92335DB41E3A3321",
+                "indent": 0
+            },
+            {
+                "id": "gs.ChangeNumberVariables",
+                "params": {
+                    "target": 0,
+                    "targetVariable": {
+                        "name": "envyhomie",
+                        "index": 4,
+                        "scope": 1,
+                        "changed": true,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "targetScope": 0,
+                    "targetRange": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "targetReferenceDomain": "com.degica.vnm.default",
+                    "targetReference": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "operation": 0,
+                    "source": 0,
+                    "sourceValue": 0,
+                    "sourceRandom": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "sourceScope": 0,
+                    "sourceVariable": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "sourceReferenceDomain": "com.degica.vnm.default",
+                    "sourceReference": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "4568B80623CAA340C83974B036725BAB6715",
+                "indent": 0
+            },
+            {
+                "id": "gs.ChangeNumberVariables",
+                "params": {
+                    "target": 0,
+                    "targetVariable": {
+                        "name": "anniehomie",
+                        "index": 6,
+                        "scope": 1,
+                        "changed": true,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "targetScope": 0,
+                    "targetRange": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "targetReferenceDomain": "com.degica.vnm.default",
+                    "targetReference": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "operation": 0,
+                    "source": 0,
+                    "sourceValue": 0,
+                    "sourceRandom": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "sourceScope": 0,
+                    "sourceVariable": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "sourceReferenceDomain": "com.degica.vnm.default",
+                    "sourceReference": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "A2CF83752D38B34C3F8923C192C7A51D2A3A",
+                "indent": 0
+            },
+            {
+                "id": "gs.ChangeNumberVariables",
+                "params": {
+                    "target": 0,
+                    "targetVariable": {
+                        "name": "annieromance",
+                        "index": 7,
+                        "scope": 1,
+                        "domain": "com.degica.vnm.default",
+                        "changed": true
+                    },
+                    "targetScope": 0,
+                    "targetRange": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "targetReferenceDomain": "com.degica.vnm.default",
+                    "targetReference": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "operation": 0,
+                    "source": 0,
+                    "sourceValue": 0,
+                    "sourceRandom": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "sourceScope": 0,
+                    "sourceVariable": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "sourceReferenceDomain": "com.degica.vnm.default",
+                    "sourceReference": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "33DE2FF886A38541F9092FA798A9B3183E6D",
+                "indent": 0
+            },
+            {
+                "id": "gs.ChangeNumberVariables",
+                "params": {
+                    "target": 0,
+                    "targetVariable": {
+                        "name": "envyromance",
+                        "index": 5,
+                        "scope": 1,
+                        "changed": true,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "targetScope": 0,
+                    "targetRange": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "targetReferenceDomain": "com.degica.vnm.default",
+                    "targetReference": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "operation": 0,
+                    "source": 0,
+                    "sourceValue": 0,
+                    "sourceRandom": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "sourceScope": 0,
+                    "sourceVariable": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "sourceReferenceDomain": "com.degica.vnm.default",
+                    "sourceReference": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "B66E69446E73B2464F6A7DF155BABA914120",
+                "indent": 0
+            },
+            {
                 "id": "vn.ChangeBackground",
                 "params": {
                     "viewport": {

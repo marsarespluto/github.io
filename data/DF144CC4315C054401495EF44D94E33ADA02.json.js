@@ -89,6 +89,17 @@ GS.dataCache['DF144CC4315C054401495EF44D94E33ADA02'] = {
                 "indent": 0
             },
             {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "B70EF7958B4D3549C968F5C3DE576C542E5D",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "uid": "812D6F5C60C9B644FF6A937659EB31809F04",
+                "indent": 0
+            },
+            {
                 "id": "vn.CharacterJoinScene",
                 "params": {
                     "viewport": {

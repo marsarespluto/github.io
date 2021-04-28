@@ -1,14 +1,15 @@
 GS.dataCache['DB087B876837F14F895AA774EFF9C062F9AB'] = {
     "uid": "DB087B876837F14F895AA774EFF9C062F9AB",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
         "name": "envybedroom",
         "type": "data_record",
+        "order": 4,
         "category": "commonEvents",
         "id": "DB087B876837F14F895AA774EFF9C062F9AB",
         "isFolder": false,
-        "parentId": "ROOT",
+        "parentId": "ACEFAA572822D144FE58A5C6C1ADFF4CFD34",
         "data": {
             "name": "envybedroom",
             "startCondition": 0,
@@ -177,8 +178,7 @@ GS.dataCache['DB087B876837F14F895AA774EFF9C062F9AB'] = {
                     "scope": 0
                 }
             ]
-        },
-        "order": 7
+        }
     },
     "summary": [
         "name",

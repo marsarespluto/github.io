@@ -36,6 +36,17 @@ GS.dataCache['4926DBE268D2464CAE1AB8379F36CE69AFED'] = {
                 "indent": 0
             },
             {
+                "id": "gs.CallCommonEvent",
+                "params": {
+                    "commonEventId": "1F53556E2E37564B0F8AF1157EA75C1B2D23",
+                    "parameters": {
+                        "values": []
+                    }
+                },
+                "uid": "D236373166E75446B75977C5A997AE6DB4B8",
+                "indent": 0
+            },
+            {
                 "id": "gs.ShowMessage",
                 "params": {
                     "waitForCompletion": 1,
@@ -291,6 +302,51 @@ GS.dataCache['4926DBE268D2464CAE1AB8379F36CE69AFED'] = {
                 "indent": 0
             },
             {
+                "id": "gs.ChangeNumberVariables",
+                "params": {
+                    "target": 0,
+                    "targetVariable": {
+                        "name": "anniehomie",
+                        "index": 6,
+                        "scope": 1,
+                        "changed": true,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "targetScope": 0,
+                    "targetRange": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "targetReferenceDomain": "com.degica.vnm.default",
+                    "targetReference": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "operation": 1,
+                    "source": 0,
+                    "sourceValue": 5,
+                    "sourceRandom": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "sourceScope": 0,
+                    "sourceVariable": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "sourceReferenceDomain": "com.degica.vnm.default",
+                    "sourceReference": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "2B5E918B4686A74F1A4BD9D195710C4DF4D2",
+                "indent": 0
+            },
+            {
                 "id": "gs.ShowMessage",
                 "params": {
                     "waitForCompletion": 1,
@@ -403,6 +459,51 @@ GS.dataCache['4926DBE268D2464CAE1AB8379F36CE69AFED'] = {
                     "name": "annieflirt1"
                 },
                 "uid": "2A6296607DA2B8401E48C3E66D12F0729D71",
+                "indent": 0
+            },
+            {
+                "id": "gs.ChangeNumberVariables",
+                "params": {
+                    "target": 0,
+                    "targetVariable": {
+                        "name": "annieromance",
+                        "index": 7,
+                        "scope": 1,
+                        "domain": "com.degica.vnm.default",
+                        "changed": true
+                    },
+                    "targetScope": 0,
+                    "targetRange": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "targetReferenceDomain": "com.degica.vnm.default",
+                    "targetReference": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "operation": 1,
+                    "source": 0,
+                    "sourceValue": 5,
+                    "sourceRandom": {
+                        "start": 0,
+                        "end": 0
+                    },
+                    "sourceScope": 0,
+                    "sourceVariable": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "sourceReferenceDomain": "com.degica.vnm.default",
+                    "sourceReference": {
+                        "index": 0,
+                        "scope": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "23BB60989AFB9143A4380DA212C9F055ED1F",
                 "indent": 0
             },
             {
@@ -728,7 +829,7 @@ GS.dataCache['4926DBE268D2464CAE1AB8379F36CE69AFED'] = {
                     },
                     "message": {
                         "lcId": "CB1C796998ECF9429849A003FE1E9F0CDCBB",
-                        "defaultText": "(ends here. update soon.)"
+                        "defaultText": "She opens the book, sitting on the bed with her back to the headboard. "
                     },
                     "position": 0,
                     "characterId": 0,
@@ -742,6 +843,123 @@ GS.dataCache['4926DBE268D2464CAE1AB8379F36CE69AFED'] = {
                 "uid": "C74DAE3E65193644EC485B55AF12CDDEE7C8",
                 "indent": 0,
                 "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "6E97F2B24A7F0143846BB8835F63A7C91649",
+                        "defaultText": "Come closer, I don't want to disturb the others by talking too loud."
+                    },
+                    "position": 0,
+                    "characterId": "EC1069623F2E984B8B5B77C27381A1FDEE20",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "704920AE184ED343A17A91775C621CE52B70",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "FF14153E68E7B44CD04B74389E3ECA7EAF92",
+                        "defaultText": "You sit close, resting your head on the headboard as she begins to read."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "9DC61F0D6D99F642A53805A20557F282132A",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "82A444725D15C24ED379EB62134BFBA7F875",
+                        "defaultText": "Ahem...Once upon a time..."
+                    },
+                    "position": 0,
+                    "characterId": "EC1069623F2E984B8B5B77C27381A1FDEE20",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "30C028203FDB934FB10AF288DE3C4E780CF7",
+                "indent": 0,
+                "expanded": true
+            },
+            {
+                "id": "vn.ChangeScene",
+                "params": {
+                    "scene": {
+                        "uid": "73CC311B5E04B8488D0A2DC92F429DE00667",
+                        "name": "Annie Reading"
+                    },
+                    "savePrevious": 1,
+                    "erasePictures": 0,
+                    "eraseTexts": 0,
+                    "eraseVideos": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "7661C7E9527DD4411748251676CFA373E886",
+                "indent": 0
             }
         ],
         "localizableStrings": {
@@ -877,13 +1095,48 @@ GS.dataCache['4926DBE268D2464CAE1AB8379F36CE69AFED'] = {
                 }
             },
             "CB1C796998ECF9429849A003FE1E9F0CDCBB": {
-                "t": "(ends here. update soon.)",
+                "t": "She opens the book, sitting on the bed with her back to the headboard. ",
                 "d": {
                     "cid": 0,
                     "eid": "C74DAE3E65193644EC485B55AF12CDDEE7C8"
                 }
+            },
+            "6E97F2B24A7F0143846BB8835F63A7C91649": {
+                "t": "Come closer, I don't want to disturb the others by talking too loud.",
+                "d": {
+                    "cid": "EC1069623F2E984B8B5B77C27381A1FDEE20",
+                    "eid": "704920AE184ED343A17A91775C621CE52B70"
+                }
+            },
+            "FF14153E68E7B44CD04B74389E3ECA7EAF92": {
+                "t": "You sit close, resting your head on the headboard as she begins to read.",
+                "d": {
+                    "cid": 0,
+                    "eid": "9DC61F0D6D99F642A53805A20557F282132A"
+                }
+            },
+            "82A444725D15C24ED379EB62134BFBA7F875": {
+                "t": "Ahem...Once upon a time...",
+                "d": {
+                    "cid": "EC1069623F2E984B8B5B77C27381A1FDEE20",
+                    "eid": "30C028203FDB934FB10AF288DE3C4E780CF7"
+                }
             }
-        }
+        },
+        "stringVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ],
+        "numberVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ]
     },
     "summary": [
         "name",

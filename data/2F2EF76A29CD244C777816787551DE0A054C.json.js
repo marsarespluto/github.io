@@ -1,14 +1,15 @@
 GS.dataCache['2F2EF76A29CD244C777816787551DE0A054C'] = {
     "uid": "2F2EF76A29CD244C777816787551DE0A054C",
     "isLoaded": true,
-    "lastModificationTime": null,
+    "lastModificationTime": 0,
     "items": {
         "name": "tobibedroom",
         "type": "data_record",
+        "order": 0,
         "category": "commonEvents",
         "id": "2F2EF76A29CD244C777816787551DE0A054C",
         "isFolder": false,
-        "parentId": "ROOT",
+        "parentId": "ACEFAA572822D144FE58A5C6C1ADFF4CFD34",
         "data": {
             "name": "tobibedroom",
             "startCondition": 0,
@@ -177,8 +178,7 @@ GS.dataCache['2F2EF76A29CD244C777816787551DE0A054C'] = {
                     "scope": 0
                 }
             ]
-        },
-        "order": 9
+        }
     },
     "summary": [
         "name",
