@@ -984,6 +984,138 @@ GS.dataCache['DF144CC4315C054401495EF44D94E33ADA02'] = {
                 "indent": 0
             },
             {
+                "id": "gs.ConditionElseIf",
+                "params": {
+                    "variable": {
+                        "name": "ReinAnimal",
+                        "index": 4,
+                        "scope": 1,
+                        "changed": true,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "numberValue": 0,
+                    "textValue": "wolf",
+                    "switchValue": 0,
+                    "valueType": 2,
+                    "operation": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "6F6B96A91473494F8D4AAED848E7F1E0C523",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "00864062164BF64E690ABB27554F9AA97A97",
+                        "defaultText": "That's just a dog by another name, in my expert opinion."
+                    },
+                    "position": 0,
+                    "characterId": "EBC0771624CC014F753B1CF397B07A8B6100",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "51A98BEA48AE76498A7AAA48E845F5344C3B",
+                "indent": 1,
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "thatsadog"
+                },
+                "uid": "7CACDD7130E1E64D581B2D5087437EE93EAB",
+                "indent": 1
+            },
+            {
+                "id": "gs.ConditionElseIf",
+                "params": {
+                    "variable": {
+                        "name": "ReinAnimal",
+                        "index": 4,
+                        "scope": 1,
+                        "changed": true,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "numberValue": 0,
+                    "textValue": "fox",
+                    "switchValue": 0,
+                    "valueType": 2,
+                    "operation": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "6DFE2ED44B13684F3B7A7461C5F3C068F054",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "4740FCB55C51E448716BC77550BB937FAD01",
+                        "defaultText": "A fox is like the middle ground between a dog and a cat. Or, like a point-...pointier dog."
+                    },
+                    "position": 0,
+                    "characterId": "EBC0771624CC014F753B1CF397B07A8B6100",
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "4F3EAB082ED89147085BD228AC1A3C6941AE",
+                "indent": 1,
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "thatsadog"
+                },
+                "uid": "370E1B06819F7048A63AAAD08BD0962A9764",
+                "indent": 1
+            },
+            {
+                "id": "gs.ConditionElse",
+                "params": {},
+                "uid": "33C1B67C7F0F2241EE89A9545B62247D7920",
+                "indent": 0
+            },
+            {
                 "id": "gs.ShowMessage",
                 "params": {
                     "waitForCompletion": 1,
@@ -1048,6 +1180,14 @@ GS.dataCache['DF144CC4315C054401495EF44D94E33ADA02'] = {
                 "uid": "94B0C6601F6FF3450A4AA8463F5D303E006B",
                 "indent": 0,
                 "expanded": true
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "thatsadog"
+                },
+                "uid": "3328E5754113624904697B61413D80E36FED",
+                "indent": 0
             },
             {
                 "id": "gs.CallCommonEvent",
@@ -1342,6 +1482,20 @@ GS.dataCache['DF144CC4315C054401495EF44D94E33ADA02'] = {
                 "d": {
                     "cid": "BA77A09EK7F14A4C2BSA11BE8CC099F00810",
                     "eid": "E1498DB22F145748038848F6C5B0C4283806"
+                }
+            },
+            "00864062164BF64E690ABB27554F9AA97A97": {
+                "t": "That's just a dog by another name, in my expert opinion.",
+                "d": {
+                    "cid": "EBC0771624CC014F753B1CF397B07A8B6100",
+                    "eid": "51A98BEA48AE76498A7AAA48E845F5344C3B"
+                }
+            },
+            "4740FCB55C51E448716BC77550BB937FAD01": {
+                "t": "A fox is like the middle ground between a dog and a cat. Or, like a point-...pointier dog.",
+                "d": {
+                    "cid": "EBC0771624CC014F753B1CF397B07A8B6100",
+                    "eid": "4F3EAB082ED89147085BD228AC1A3C6941AE"
                 }
             }
         },

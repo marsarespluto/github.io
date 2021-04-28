@@ -145,6 +145,55 @@ GS.dataCache['8B98E344291A3148BE18E4E22AA0EE72746F'] = {
                     "cid": 0,
                     "eid": "58271537486EB14B2709BD25381AF364116E"
                 }
+            },
+            "764CB9CF977356480959D2D9D1C9D7A91CF3": {
+                "t": "Hello, my love.",
+                "d": {
+                    "cid": 0,
+                    "eid": "4E1512C12668584B9B28CB0133DD20D9B5B1"
+                }
+            },
+            "17C1035B833FD141103B55D983BCB17AB5DA": {
+                "t": "Oh hey, Elle.",
+                "d": {
+                    "cid": 0,
+                    "eid": "5DC87DE77CD0C74F7319E33468C36CD20993"
+                }
+            },
+            "6A7A05F640C5D549A74A07F2FC63AF57299F": {
+                "t": "If this is Elle...you're predictable. I love you though.",
+                "d": {
+                    "cid": 0,
+                    "eid": "58C5F6D7730D3345503AD8A9FDFDA443C5E0"
+                }
+            },
+            "C1964C1C2DB0D5423F889D14E13E7087D5CC": {
+                "t": "You're either myself testing this game for bugs, or you're trying to be funny.",
+                "d": {
+                    "cid": 0,
+                    "eid": "278BAFF97A4997427E690A71A4BB2F09AE21"
+                }
+            },
+            "9F05E28B41F14649F7184FF9EE8F4004C17A": {
+                "t": "Ah, the name of a hero, a homie, the legend himself.",
+                "d": {
+                    "cid": 0,
+                    "eid": "EDED03D82601D8414B09F160DAE544D457B9"
+                }
+            },
+            "EE547FC64DB4B84DD819C311359C828C4605": {
+                "t": "So you've finally not named yourself POOO (three o's, fully capitalised.) Thanks, Bean.",
+                "d": {
+                    "cid": 0,
+                    "eid": "6B9B771425A7C846162A799469D2AA8AA47D"
+                }
+            },
+            "52F81E9B5C10084E73891DB7AE7F7D514050": {
+                "t": "Finally, your name works.",
+                "d": {
+                    "cid": 0,
+                    "eid": "5F86EAFE0F71C448306BB982D7F3B6EA1521"
+                }
             }
         },
         "commands": [
@@ -511,7 +560,7 @@ GS.dataCache['8B98E344291A3148BE18E4E22AA0EE72746F'] = {
                 "indent": 0
             },
             {
-                "id": "gs.ConditionElseIf",
+                "id": "gs.Condition",
                 "params": {
                     "variable": {
                         "name": "PlayerName",
@@ -529,7 +578,7 @@ GS.dataCache['8B98E344291A3148BE18E4E22AA0EE72746F'] = {
                         "name": "$live_preview_snapshot"
                     }
                 },
-                "uid": "9AB467265F98D649BA79ACC3DDA523C9259F",
+                "uid": "5F3756ED7641434B7B8811C07D86F444455B",
                 "indent": 0
             },
             {
@@ -574,6 +623,447 @@ GS.dataCache['8B98E344291A3148BE18E4E22AA0EE72746F'] = {
                 "indent": 1
             },
             {
+                "id": "gs.ConditionElseIf",
+                "params": {
+                    "variable": {
+                        "name": "PlayerName",
+                        "scope": 1,
+                        "index": 0,
+                        "changed": true,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "numberValue": 0,
+                    "textValue": "Cyan",
+                    "switchValue": 0,
+                    "valueType": 2,
+                    "operation": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "248E87BD7B40E94B27590B6026769A3D559B",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "764CB9CF977356480959D2D9D1C9D7A91CF3",
+                        "defaultText": "Hello, my love."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "4E1512C12668584B9B28CB0133DD20D9B5B1",
+                "indent": 1,
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "allowednames"
+                },
+                "uid": "D11DF3831CC9724AB27AC794398A3EF97A34",
+                "indent": 1
+            },
+            {
+                "id": "gs.ConditionElseIf",
+                "params": {
+                    "variable": {
+                        "name": "PlayerName",
+                        "scope": 1,
+                        "index": 0,
+                        "changed": true,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "numberValue": 0,
+                    "textValue": "Elle",
+                    "switchValue": 0,
+                    "valueType": 2,
+                    "operation": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "D29DD4E8775D5446157B0A381FB69BFB4273",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "17C1035B833FD141103B55D983BCB17AB5DA",
+                        "defaultText": "Oh hey, Elle."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "5DC87DE77CD0C74F7319E33468C36CD20993",
+                "indent": 1,
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "allowednames"
+                },
+                "uid": "08D8B0C71752A646C91B70C66F20B1DEE701",
+                "indent": 1
+            },
+            {
+                "id": "gs.ConditionElseIf",
+                "params": {
+                    "variable": {
+                        "name": "PlayerName",
+                        "scope": 1,
+                        "index": 0,
+                        "changed": true,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "numberValue": 0,
+                    "textValue": "Emily",
+                    "switchValue": 0,
+                    "valueType": 2,
+                    "operation": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "8F68341C7D65D84B484B6307F46F4AF07D3F",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "6A7A05F640C5D549A74A07F2FC63AF57299F",
+                        "defaultText": "If this is Elle...you're predictable. I love you though."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "58C5F6D7730D3345503AD8A9FDFDA443C5E0",
+                "indent": 1,
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "allowednames"
+                },
+                "uid": "9D8D7B966EDB2645062A2B4990057F2E44BF",
+                "indent": 1
+            },
+            {
+                "id": "gs.ConditionElseIf",
+                "params": {
+                    "variable": {
+                        "name": "PlayerName",
+                        "scope": 1,
+                        "index": 0,
+                        "changed": true,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "numberValue": 0,
+                    "textValue": "Ares",
+                    "switchValue": 0,
+                    "valueType": 2,
+                    "operation": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "2483D02C32A84242813B3588B1D70261F6D5",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "C1964C1C2DB0D5423F889D14E13E7087D5CC",
+                        "defaultText": "You're either myself testing this game for bugs, or you're trying to be funny."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "278BAFF97A4997427E690A71A4BB2F09AE21",
+                "indent": 1,
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "allowednames"
+                },
+                "uid": "245205277C8142483C58E0A435515971C6CA",
+                "indent": 1
+            },
+            {
+                "id": "gs.ConditionElseIf",
+                "params": {
+                    "variable": {
+                        "name": "PlayerName",
+                        "scope": 1,
+                        "index": 0,
+                        "changed": true,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "numberValue": 0,
+                    "textValue": "Rohan",
+                    "switchValue": 0,
+                    "valueType": 2,
+                    "operation": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "86A9DD8F7700A743FF1A28E1151B6F4B3735",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "9F05E28B41F14649F7184FF9EE8F4004C17A",
+                        "defaultText": "Ah, the name of a hero, a homie, the legend himself."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "EDED03D82601D8414B09F160DAE544D457B9",
+                "indent": 1,
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "allowednames"
+                },
+                "uid": "1DC987272EE6D14B415A96F02F4CC02A81A6",
+                "indent": 1
+            },
+            {
+                "id": "gs.ConditionElseIf",
+                "params": {
+                    "variable": {
+                        "name": "PlayerName",
+                        "scope": 1,
+                        "index": 0,
+                        "changed": true,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "numberValue": 0,
+                    "textValue": "Bee",
+                    "switchValue": 0,
+                    "valueType": 2,
+                    "operation": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "24A19B1500FDE84DA13808862C692F029EE0",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "EE547FC64DB4B84DD819C311359C828C4605",
+                        "defaultText": "So you've finally not named yourself POOO (three o's, fully capitalised.) Thanks, Bean."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "6B9B771425A7C846162A799469D2AA8AA47D",
+                "indent": 1,
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "allowednames"
+                },
+                "uid": "07AB90B9102C57401618662592BA59B91AF9",
+                "indent": 1
+            },
+            {
+                "id": "gs.ConditionElseIf",
+                "params": {
+                    "variable": {
+                        "name": "PlayerName",
+                        "scope": 1,
+                        "index": 0,
+                        "changed": true,
+                        "domain": "com.degica.vnm.default"
+                    },
+                    "numberValue": 0,
+                    "textValue": "Annabelle",
+                    "switchValue": 0,
+                    "valueType": 2,
+                    "operation": 0,
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "EE3C8DB72402D5487859BA97BE0FCF4E53AB",
+                "indent": 0
+            },
+            {
+                "id": "gs.ShowMessage",
+                "params": {
+                    "waitForCompletion": 1,
+                    "duration": 15,
+                    "expressionId": null,
+                    "custom": {
+                        "object": {
+                            "x": 0,
+                            "y": 0,
+                            "size": {
+                                "width": 300,
+                                "height": 100
+                            }
+                        }
+                    },
+                    "message": {
+                        "lcId": "52F81E9B5C10084E73891DB7AE7F7D514050",
+                        "defaultText": "Finally, your name works."
+                    },
+                    "position": 0,
+                    "characterId": 0,
+                    "partial": 0,
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "5F86EAFE0F71C448306BB982D7F3B6EA1521",
+                "indent": 1,
+                "expanded": true
+            },
+            {
+                "id": "gs.JumpToLabel",
+                "params": {
+                    "name": "allowednames"
+                },
+                "uid": "189F5D8D19EE974BFE292930B18E07C12109",
+                "indent": 1
+            },
+            {
                 "id": "gs.ConditionElse",
                 "params": {},
                 "uid": "D6DD64CF407EF340E888C0B75163AC97D05F",
@@ -611,6 +1101,14 @@ GS.dataCache['8B98E344291A3148BE18E4E22AA0EE72746F'] = {
                 "uid": "71914958938756455F19E3D8AE5599E61C66",
                 "indent": 0,
                 "expanded": true
+            },
+            {
+                "id": "gs.Label",
+                "params": {
+                    "name": "allowednames"
+                },
+                "uid": "85C2A79C6FEA794B2D5A434016207A4AF9B8",
+                "indent": 0
             },
             {
                 "id": "gs.ShowMessage",
@@ -981,7 +1479,7 @@ GS.dataCache['8B98E344291A3148BE18E4E22AA0EE72746F'] = {
                         "uid": "E55A412405E0974BD929AA400DC8BAACFB49",
                         "name": "Grim Reaper."
                     },
-                    "savePrevious": 0,
+                    "savePrevious": 1,
                     "erasePictures": 0,
                     "eraseTexts": 0,
                     "eraseVideos": 0,

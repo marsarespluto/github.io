@@ -51,17 +51,45 @@ GS.dataCache['59EDE4B696E2E94D838AEBC79C732F2B0878'] = {
                             }
                         }
                     },
-                    "message": "",
+                    "message": {
+                        "lcId": "8BD9F6EB432DE344D24A2BB3E3F9EBA10A1A",
+                        "defaultText": ""
+                    },
                     "position": 0,
-                    "characterId": 0,
+                    "characterId": "50AD6E874D53914E978815C0A9CE8B96B773",
                     "partial": 0,
                     "fieldFlags": {
                         "duration": 1
-                    }
+                    },
+                    "expressions": [],
+                    "animations": []
                 },
                 "uid": "CC156B3158731249FA693045D873F3CBD3A1",
                 "indent": 0,
                 "expanded": true
+            }
+        ],
+        "localizableStrings": {
+            "8BD9F6EB432DE344D24A2BB3E3F9EBA10A1A": {
+                "t": "",
+                "d": {
+                    "cid": "50AD6E874D53914E978815C0A9CE8B96B773",
+                    "eid": "CC156B3158731249FA693045D873F3CBD3A1"
+                }
+            }
+        },
+        "numberVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
+            }
+        ],
+        "stringVariables": [
+            {
+                "name": "",
+                "index": 0,
+                "scope": 0
             }
         ]
     },

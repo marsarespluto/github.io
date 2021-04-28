@@ -3351,6 +3351,38 @@ GS.dataCache['SUMMARIES'] = {
                 "type": "data_record",
                 "order": 3
             }
+        },
+        "EBD7F0312346874567894CD54B4DE390905B": {
+            "items": {
+                "name": "Tobias's Room: Evening",
+                "type": "data_record",
+                "order": 1
+            }
+        },
+        "899676CA9A80504A435A3F74C9C3436771D8": {
+            "items": {
+                "name": "Tobias's Room: Morning",
+                "type": "data_record",
+                "order": 2
+            }
+        },
+        "0B6DCCCD23B8B64AE90B352574B0FBFFE2CA": {
+            "items": {
+                "name": "Day 2 - Hobbies?",
+                "type": "vn.scene",
+                "parentId": "4BCA371970676647D03AF501763B4FF8E0C5",
+                "chapterUid": "33CA8B7A0CD3B540DA7A46943C31E3392A9E",
+                "order": 1
+            }
+        },
+        "AA2BED9F60AF124D9F6A85C752F20ABC6451": {
+            "items": {
+                "name": "Morning with Tobias",
+                "type": "vn.scene",
+                "parentId": "0B6DCCCD23B8B64AE90B352574B0FBFFE2CA",
+                "chapterUid": "33CA8B7A0CD3B540DA7A46943C31E3392A9E",
+                "order": 0
+            }
         }
     }
 }

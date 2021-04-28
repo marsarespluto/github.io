@@ -54,6 +54,8 @@ GS.dataCache['RESOURCES'] = {
             "Graphics/Pictures/cursor": ".png",
             "Graphics/Pictures/eye": ".png",
             "Graphics/Pictures/theafter": ".png",
+            "Graphics/Pictures/tobiascg1morning": ".png",
+            "Graphics/Pictures/tobiascg1night": ".png",
             "Graphics/Pictures/web-start-screen": ".png",
             "Graphics/Icons/Germany": ".png",
             "Graphics/Icons/Japan": ".png",
